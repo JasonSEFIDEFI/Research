@@ -569,3 +569,7 @@ This repository serves as the master archive for the research portfolio and asso
 - [Book manuscripts and early source material](https://github.com/JasonSEFIDEFI/Publishing-V-Drive-Content).
 
 These are research drafts and computational studies, not confirmations of new physics, a working propulsion engine, journal acceptance, or a doctoral award. Prior versions and submission history remain distinct. Existing draft pull requests are retained for review.
+
+## Geometric inverse reconstruction handoff gate
+
+[SEFI-INV-001 — Geometric Inverse Reconstruction](research/checkpoints/SEFI-INV-001.md), created 25 October 2026, records an **Exploratory / Not Promoted** methodological gate. It requires conventional baselines, identifiability analysis, reproducibility, observational validation for physical claims, and explicit author approval before promotion. [Checkpoint index](research/checkpoints/README.md).

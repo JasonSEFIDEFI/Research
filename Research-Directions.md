@@ -49,3 +49,7 @@ Distinguish assumptions, analytical derivations, numerical observations, conject
 No present result establishes observed matter, spin or quantum statistics, electromagnetic identification of model charge, universal coupling, Einstein gravity, physical warp propulsion, continuum existence, or general stability. Quantization, common effective geometry, and gravitational dynamics remain separate longer-term research problems.
 
 See [Collaboration and Handoff](Collaboration-and-Handoff.md) for prospective targets and division of responsibility.
+
+## Geometric inverse reconstruction gate
+
+[SEFI-INV-001](research/checkpoints/SEFI-INV-001.md) asks whether internal geometry can be inferred from observable dynamical response without prescribing it in advance. The four-stage protocol proceeds through conventional baseline, inverse reconstruction, framework comparison and scientific handoff review. Status: **Exploratory / Not Promoted**; formal promotion requires Jason Duran Dutton's explicit approval. This methodological route preserves the existing research priorities and evidence records.

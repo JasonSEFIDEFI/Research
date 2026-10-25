@@ -2,6 +2,12 @@
 
 Updated 24 October 2026. This repository was renamed from PhD to Research at the author's request. Repository history and existing manuscript status are retained.
 
+## Exploratory numerical update — 25 October 2026
+
+[Localized vacuum branch continuation and publication assessment](https://github.com/JasonSEFIDEFI/SEFI-PY/blob/d3fa758cb9404ddcfd58d6f2e5bb6c46a6dead19/research/2026-10-25/localized-branch/README.md) extends the lambda=12 two-complex-scalar study across thirteen charges on three grids, compares 26 sampled two-daughter energies, and cross-checks a free-threshold binding crossing near Q=1225.43 with continuum collocation. Stationary localized states above threshold, unresolved low-charge runs and an extended finite-box state are retained separately. The record includes raw profiles, variational checks and a conditional phase-sector derivation.
+
+[Draft SEFI-PY pull request #6](https://github.com/JasonSEFIDEFI/SEFI-PY/pull/6) contains the new research package; it is published on a research branch and has not been merged into SEFI-PY main. **Exploratory / Not Promoted.** There is no observed-particle, global minimization, general nonlinear stability or established novelty claim, and no journal submission. Next work is frequency/fold continuation, coupling dependence and a detailed comparison with existing multi-field soliton literature. This update follows the existing localized-field priority and preserves the [SEFI-INV-001 approval gate](research/checkpoints/SEFI-INV-001.md).
+
 ## Current research priority
 
 [Research review and priorities](research/2026-10-24/research-priorities/REVIEW.md): concentrate on the existing two-field localized-vacuum branch, derive an effective collective-coordinate/identity correspondence, and then study interactions. Preserve the moving-ring branch and use Lieb–Liniger as a bounded exact correlation benchmark. Application tracks remain separate until they supply their missing constitutive or experimental inputs.

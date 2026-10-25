@@ -2,6 +2,12 @@
 
 Updated 24 October 2026. This repository was renamed from PhD to Research at the author's request. Repository history and existing manuscript status are retained.
 
+## Frequency continuation and critical coupling — 25 October 2026
+
+[Stationary-branch and formal critical-limit record](https://github.com/JasonSEFIDEFI/SEFI-PY/blob/446e6177ec30b840a0fcd336ff72dd96a1c2df4e/research/2026-10-25/localized-frequency/README.md) resolves a numerical charge minimum near Q=953.31 at lambda=12, distinct from the free-threshold binding crossing near Q=1225.43. Two Q=1000 stationary profiles have different computed radial constrained-energy character. Coupling continuation reaches lambda=15.9; a formally derived reduced variational problem predicts delta^(-3/2) charge growth, with about 0.41% discrepancy in the scaled minimum at that coupling. A model-specific virial obstruction for the stated stationary class at lambda>=16 is documented with its assumptions.
+
+The package contains all initial and recovery attempts, raw profiles, grid/domain/tolerance comparisons, symbolic checks, a derivation and a [publication-readiness assessment](https://github.com/JasonSEFIDEFI/SEFI-PY/blob/446e6177ec30b840a0fcd336ff72dd96a1c2df4e/research/2026-10-25/localized-frequency/PUBLICATION_READINESS.md). It is pushed at SEFI-PY commit `446e6177ec30b840a0fcd336ff72dd96a1c2df4e` on the existing [draft PR #6](https://github.com/JasonSEFIDEFI/SEFI-PY/pull/6), not merged into main. **Exploratory / Not Promoted**: no general nonlinear stability, proved singular-limit convergence, established novelty or physical-particle claim. Next work is a controlled critical-limit correction and independent technical/literature review. No journal submission or promotion approval is recorded.
+
 ## Exploratory numerical update — 25 October 2026
 
 [Localized vacuum branch continuation and publication assessment](https://github.com/JasonSEFIDEFI/SEFI-PY/blob/d3fa758cb9404ddcfd58d6f2e5bb6c46a6dead19/research/2026-10-25/localized-branch/README.md) extends the lambda=12 two-complex-scalar study across thirteen charges on three grids, compares 26 sampled two-daughter energies, and cross-checks a free-threshold binding crossing near Q=1225.43 with continuum collocation. Stationary localized states above threshold, unresolved low-charge runs and an extended finite-box state are retained separately. The record includes raw profiles, variational checks and a conditional phase-sector derivation.

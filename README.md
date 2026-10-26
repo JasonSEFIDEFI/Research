@@ -1,4 +1,14 @@
-# PhD by Published Work — Research Portfolio
+# Computational Physics Research Portfolio
+
+## Current education and long-term direction
+
+I am currently enrolled at **American InterContinental University (AIU)** in the **Bachelor of Science in Information Technology (BSIT)** program.
+
+My long-term goal is a **PhD in computational physics**. I am developing computing foundations through the BSIT alongside independent scientific software and mathematical research. Preparation priorities include advanced mathematics, numerical methods, and physics, with academic guidance on appropriate postgraduate pathways.
+
+My current enrollment is in the bachelor's program. This portfolio records independent work accompanying my studies.
+
+[Current education and academic pathway](https://github.com/JasonSEFIDEFI/CV-/blob/main/ACADEMIC-PATHWAY.md) · [Current master résumé](https://github.com/JasonSEFIDEFI/CV-/blob/main/master-resume/Jason_Duran_Dutton_Master_Resume.pdf)
 
 ## Guiding research question
 
@@ -10,7 +20,7 @@ ORCID: [0009-0004-8655-9901](https://orcid.org/0009-0004-8655-9901) · [GitHub p
 
 ## Purpose and current research question
 
-This portfolio supports academic review of an evolving theoretical and computational research programme. The PhD by Published Work route concerns the submission format; the underlying research must meet the standard of a standalone doctoral contribution.
+This portfolio supports academic review of an evolving theoretical and computational research programme and preparation toward my long-term goal of doctoral study in computational physics. Earlier materials explored a PhD by Published Work route and remain in the archive; they do not describe my current degree enrollment. Any future postgraduate route will depend on prerequisites, academic guidance, and admission requirements.
 
 The bounded question is whether explicit nonlinear field models support localized persistent excitations and whether perturbations admit compatible effective propagation geometries. Primordial unity motivates this question but is not an established premise.
 
@@ -560,7 +570,7 @@ GitHub:
 https://github.com/JasonSEFIDEFI
 ```
 
-This repository serves as the master archive for the research portfolio and associated PhD by Published Work materials.
+This repository serves as the master archive for independent research supporting my long-term computational-physics goal. Historical PhD by Published Work materials are retained for provenance.
 
 ## Research synchronization - October 18, 2026
 

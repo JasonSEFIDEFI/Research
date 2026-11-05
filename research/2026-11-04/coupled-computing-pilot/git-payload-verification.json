@@ -1,0 +1,167 @@
+{
+  "checks": 33,
+  "passed": true,
+  "details": [
+    {
+      "path": "research/2026-11-04/recovered-reviews/2026-10-22/SEFI_independent_checks.json",
+      "repository": "Research",
+      "passed": true
+    },
+    {
+      "path": "research/2026-11-04/recovered-reviews/2026-10-22/SEFI_research_review.md",
+      "repository": "Research",
+      "passed": true
+    },
+    {
+      "path": "research/2026-11-04/recovered-reviews/2026-10-22/SEFI_review_source_manifest.json",
+      "repository": "Research",
+      "passed": true
+    },
+    {
+      "path": "research/2026-11-04/recovered-reviews/2026-10-24/sefi_hamiltonian_audit.zip",
+      "repository": "Research",
+      "passed": true
+    },
+    {
+      "path": "research-updates/2026-11-04/recovered-deliverables/2026-10-27/photonics-figures.zip",
+      "repository": "SEFI-Manuscripts",
+      "passed": true
+    },
+    {
+      "path": "research-updates/2026-11-04/recovered-deliverables/2026-10-28/Photonics_Highlight_Image.png",
+      "repository": "SEFI-Manuscripts",
+      "passed": true
+    },
+    {
+      "path": "research-updates/2026-11-04/recovered-deliverables/2026-10-28/SEFI_Research_GitHub_Avatar.jpg",
+      "repository": "SEFI-Manuscripts",
+      "passed": true
+    },
+    {
+      "path": "research-updates/2026-11-04/recovered-deliverables/2026-10-29/prospective.pdf",
+      "repository": "SEFI-Manuscripts",
+      "passed": true
+    },
+    {
+      "path": "research-updates/2026-11-04/recovered-deliverables/2026-10-29/prospective.tex",
+      "repository": "SEFI-Manuscripts",
+      "passed": true
+    },
+    {
+      "path": "research-updates/2026-11-04/recovered-deliverables/2026-10-29/SEFI-Advisor-Learning-Hub.zip",
+      "repository": "SEFI-Manuscripts",
+      "passed": true
+    },
+    {
+      "path": "research-updates/2026-11-04/recovered-deliverables/2026-10-29/SEFI-Advisor-Package.zip",
+      "repository": "SEFI-Manuscripts",
+      "passed": true
+    },
+    {
+      "path": "research-updates/2026-11-04/recovered-deliverables/2026-10-29/SEFI-Advisor-Portal-Preview.jpg",
+      "repository": "SEFI-Manuscripts",
+      "passed": true
+    },
+    {
+      "path": "research-updates/2026-11-04/recovered-deliverables/2026-10-29/SEFI-Foundations-Working-Project.zip",
+      "repository": "SEFI-Manuscripts",
+      "passed": true
+    },
+    {
+      "path": "research-updates/2026-11-04/recovered-deliverables/2026-10-29/SEFI-Graphical-Abstract-Complete-Project.zip",
+      "repository": "SEFI-Manuscripts",
+      "passed": true
+    },
+    {
+      "path": "research-updates/2026-11-04/recovered-deliverables/2026-10-29/SEFI-Graphical-Abstract-Corrected.mp4",
+      "repository": "SEFI-Manuscripts",
+      "passed": true
+    },
+    {
+      "path": "research-updates/2026-11-04/recovered-deliverables/2026-10-29/SEFI-Manuscript.pdf",
+      "repository": "SEFI-Manuscripts",
+      "passed": true
+    },
+    {
+      "path": "research-updates/2026-11-04/recovered-deliverables/2026-10-29/SEFI-Research-Prospectus.pdf",
+      "repository": "SEFI-Manuscripts",
+      "passed": true
+    },
+    {
+      "path": "research-updates/2026-11-04/recovered-deliverables/2026-10-29/SEFI-Video-Abstract-Read-Aloud.txt",
+      "repository": "SEFI-Manuscripts",
+      "passed": true
+    },
+    {
+      "path": "research-updates/2026-11-04/recovered-deliverables/2026-10-29/SEFI-Video-Abstract-Recording-Script.md",
+      "repository": "SEFI-Manuscripts",
+      "passed": true
+    },
+    {
+      "path": "research-updates/2026-11-04/word-manuscripts/Big-Picture-manuscript.docx",
+      "repository": "SEFI-Manuscripts",
+      "passed": true
+    },
+    {
+      "path": "research-updates/2026-11-04/word-manuscripts/DEFI-manuscript.docx",
+      "repository": "SEFI-Manuscripts",
+      "passed": true
+    },
+    {
+      "path": "research-updates/2026-11-04/word-manuscripts/DNA-manuscript.docx",
+      "repository": "SEFI-Manuscripts",
+      "passed": true
+    },
+    {
+      "path": "research-updates/2026-11-04/word-manuscripts/GWFM-manuscript.docx",
+      "repository": "SEFI-Manuscripts",
+      "passed": true
+    },
+    {
+      "path": "research-updates/2026-11-04/word-manuscripts/Manuscript-Conversion-Notes.txt",
+      "repository": "SEFI-Manuscripts",
+      "passed": true
+    },
+    {
+      "path": "research-updates/2026-11-04/word-manuscripts/Phase-Dynamics-Temporal-Ordering.docx",
+      "repository": "SEFI-Manuscripts",
+      "passed": true
+    },
+    {
+      "path": "research-updates/2026-11-04/word-manuscripts/Photonics-manuscript.docx",
+      "repository": "SEFI-Manuscripts",
+      "passed": true
+    },
+    {
+      "path": "research-updates/2026-11-04/word-manuscripts/SEFI-GWFM-DEFI-A-Student-Guide.pdf",
+      "repository": "SEFI-Manuscripts",
+      "passed": true
+    },
+    {
+      "path": "research-updates/2026-11-04/word-manuscripts/SEFI-manuscript.docx",
+      "repository": "SEFI-Manuscripts",
+      "passed": true
+    },
+    {
+      "path": "research-updates/2026-11-04/recovered-deliverables/2026-11-03/GWFM_AIUS_Manuscript.docx",
+      "repository": "SEFI-Manuscripts",
+      "passed": true
+    },
+    {
+      "path": "research/2026-11-04/coupled-computing-pilot/source-snapshots/SEFI.tex",
+      "passed": true
+    },
+    {
+      "path": "research/2026-11-04/coupled-computing-pilot/source-snapshots/GWFM-revised-October29.tex",
+      "passed": true
+    },
+    {
+      "path": "research/2026-11-04/coupled-computing-pilot/source-snapshots/DEFI.tex",
+      "passed": true
+    },
+    {
+      "path": "research/2026-11-04/coupled-computing-pilot/source-snapshots/Phase-dynamics.tex",
+      "passed": true
+    }
+  ]
+}

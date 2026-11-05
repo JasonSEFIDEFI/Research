@@ -1,0 +1,30 @@
+[
+  {
+    "label": "SEFI",
+    "local_source": "C:\\Users\\jason\\Documents\\Codex\\2026-11-03\\i-need-you-to-reformat-the\\work\\sefi\\SEFI_Formal_Mathematical_Construction.tex",
+    "sha256": "c3cfb1e29dbf78226af2ff82a201960dc3bf2a46d2b4f59004dcf167c195a946",
+    "snapshot": "outputs/source-snapshots/SEFI.tex",
+    "status": "accessible dated copy; not an assertion of authoritative submission version"
+  },
+  {
+    "label": "GWFM-revised-October29",
+    "local_source": "C:\\Users\\jason\\Documents\\Codex\\2026-11-03\\i-need-you-to-reformat-the\\work\\GWFM-manuscript.tex",
+    "sha256": "15654122d3cca995235b08758ee82e76b1c67e72ffd69bf21350245d24183515",
+    "snapshot": "outputs/source-snapshots/GWFM-revised-October29.tex",
+    "status": "accessible dated copy; not an assertion of authoritative submission version"
+  },
+  {
+    "label": "DEFI",
+    "local_source": "C:\\Users\\jason\\Documents\\Codex\\2026-11-03\\i-need-you-to-reformat-the\\work\\batch\\DEFI\\DEFI_Formal_Construction.tex",
+    "sha256": "ae6bb8bbbb55e4dd320f6a96ceb8a3784384b95d93adb7fca352063598bc4986",
+    "snapshot": "outputs/source-snapshots/DEFI.tex",
+    "status": "accessible dated copy; not an assertion of authoritative submission version"
+  },
+  {
+    "label": "Phase-dynamics",
+    "local_source": "C:\\Users\\jason\\Documents\\Codex\\2026-11-03\\i-need-you-to-reformat-the\\work\\batch\\Time\\Jason_D_Dutton_Phase_Dynamics_Temporal_Ordering.tex",
+    "sha256": "b2c67b0a5acad8e1551750856c1b857edf4a4166b0a5447681ccef860a718f44",
+    "snapshot": "outputs/source-snapshots/Phase-dynamics.tex",
+    "status": "accessible dated copy; not an assertion of authoritative submission version"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "repo": "SEFI-PY",
+    "path": "README.md",
+    "blob_sha": "24c00d4819dd5fd92490cfef9d24827e1495e219",
+    "url": "https://github.com/JasonSEFIDEFI/SEFI-PY/blob/847a071351ed2b1c54e240fd9a520a1cce238178/README.md",
+    "review": "targeted source/report inspection; historical runs not all repeated"
+  },
+  {
+    "repo": "SEFI-PY",
+    "path": "sefi-core/worldline.py",
+    "blob_sha": "12160688c13ea88f79d5cfda5d961d7a6bb89541",
+    "url": "https://github.com/JasonSEFIDEFI/SEFI-PY/blob/847a071351ed2b1c54e240fd9a520a1cce238178/sefi-core/worldline.py",
+    "review": "targeted source/report inspection; historical runs not all repeated"
+  },
+  {
+    "repo": "SEFI-PY",
+    "path": "sefi-voxel/phase_compiler.py",
+    "blob_sha": "4533ed87c3aaedb86654c8b45811f972ea52d642",
+    "url": "https://github.com/JasonSEFIDEFI/SEFI-PY/blob/847a071351ed2b1c54e240fd9a520a1cce238178/sefi-voxel/phase_compiler.py",
+    "review": "targeted source/report inspection; historical runs not all repeated"
+  },
+  {
+    "repo": "SEFI-PY",
+    "path": "SEFI-PY/benchmarks/displacement_recovery/BENCHMARK_REPORT.md",
+    "blob_sha": "b045d175ad7ce2c6879318d0dd60122cae201889",
+    "url": "https://github.com/JasonSEFIDEFI/SEFI-PY/blob/847a071351ed2b1c54e240fd9a520a1cce238178/SEFI-PY/benchmarks/displacement_recovery/BENCHMARK_REPORT.md",
+    "review": "targeted source/report inspection; historical runs not all repeated"
+  },
+  {
+    "repo": "SEFI-PY",
+    "path": "SEFI-PY Evolution/research/calibration_workbench/workbench.py",
+    "blob_sha": "4412fa108580d466b357ee4b824c7496fe318ed9",
+    "url": "https://github.com/JasonSEFIDEFI/SEFI-PY/blob/847a071351ed2b1c54e240fd9a520a1cce238178/SEFI-PY%20Evolution/research/calibration_workbench/workbench.py",
+    "review": "targeted source/report inspection; historical runs not all repeated"
+  },
+  {
+    "repo": "Research",
+    "path": "RESEARCH_STATUS.md",
+    "blob_sha": "10e9b18f55159553a4163dc680b3465aa863abae",
+    "url": "https://github.com/JasonSEFIDEFI/Research/blob/86686396a7612f4b80c7225798db48af519353b6/RESEARCH_STATUS.md",
+    "review": "targeted source/report inspection; historical runs not all repeated"
+  },
+  {
+    "repo": "Research",
+    "path": "research/2026-10-24/sefi-hamiltonian-audit/REPORT.md",
+    "blob_sha": "db1f5dc7a62835463091b48731180614c54792da",
+    "url": "https://github.com/JasonSEFIDEFI/Research/blob/86686396a7612f4b80c7225798db48af519353b6/research/2026-10-24/sefi-hamiltonian-audit/REPORT.md",
+    "review": "targeted source/report inspection; historical runs not all repeated"
+  },
+  {
+    "repo": "Research",
+    "path": "research/2026-10-24/research-priorities/REVIEW.md",
+    "blob_sha": "c607c71f4fca8c5645e64ecf8166a3bf25817f1d",
+    "url": "https://github.com/JasonSEFIDEFI/Research/blob/86686396a7612f4b80c7225798db48af519353b6/research/2026-10-24/research-priorities/REVIEW.md",
+    "review": "targeted source/report inspection; historical runs not all repeated"
+  },
+  {
+    "repo": "SEFI-Manuscripts",
+    "path": "gwfm/gwfm.tex",
+    "blob_sha": "2eb45ba9231c3468235ae425d54693a5a6976c69",
+    "url": "https://github.com/JasonSEFIDEFI/SEFI-Manuscripts/blob/72ca952eaddf608b006ebaaa4615a422e0532ff9/gwfm/gwfm.tex",
+    "review": "targeted source/report inspection; historical runs not all repeated"
+  },
+  {
+    "repo": "SEFI-Manuscripts",
+    "path": "sefi/sefi.tex",
+    "blob_sha": "4aa3bf0505dc19bec7c8f6dcffa4a0faa333e4c4",
+    "url": "https://github.com/JasonSEFIDEFI/SEFI-Manuscripts/blob/72ca952eaddf608b006ebaaa4615a422e0532ff9/sefi/sefi.tex",
+    "review": "targeted source/report inspection; historical runs not all repeated"
+  },
+  {
+    "repo": "SEFI-Manuscripts",
+    "path": "DEFI/DEFI_Formal_Construction.tex",
+    "blob_sha": "f82dbfcac846a7aa6ae816909e4d0bb8fcbb3141",
+    "url": "https://github.com/JasonSEFIDEFI/SEFI-Manuscripts/blob/72ca952eaddf608b006ebaaa4615a422e0532ff9/DEFI/DEFI_Formal_Construction.tex",
+    "review": "targeted source/report inspection; historical runs not all repeated"
+  },
+  {
+    "repo": "SEFI-Manuscripts",
+    "path": "archive/v-drive/Journal Submissions/Time/verify_final_calculations.py",
+    "blob_sha": "53cedc7e4368114629b14fffdec1b8e063571c2c",
+    "url": "https://github.com/JasonSEFIDEFI/SEFI-Manuscripts/blob/72ca952eaddf608b006ebaaa4615a422e0532ff9/archive/v-drive/Journal%20Submissions/Time/verify_final_calculations.py",
+    "review": "targeted source/report inspection; historical runs not all repeated"
+  },
+  {
+    "repo": "SEFI_QEC_Stack",
+    "path": "quantum/resource_estimator.py",
+    "blob_sha": "634b31ed7b6d9605ee617cd46f20ba9bae4d83f2",
+    "url": "https://github.com/JasonSEFIDEFI/SEFI_QEC_Stack/blob/7be66ac5d3e487196121dec136c3136ee5246963/quantum/resource_estimator.py",
+    "review": "targeted source/report inspection; historical runs not all repeated"
+  },
+  {
+    "repo": "SEFI-Voxel",
+    "path": "src/sefi_voxel/device_interface.py",
+    "blob_sha": "837a0ff6c552d1115147d8459bb7bc11c0c47d1e",
+    "url": "https://github.com/JasonSEFIDEFI/SEFI-Voxel/blob/f8737ca47620e4c9c5143e6baa8ca301bbaa8b7d/src/sefi_voxel/device_interface.py",
+    "review": "targeted source/report inspection; historical runs not all repeated"
+  },
+  {
+    "repo": "SEFI-Voxel",
+    "path": "src/sefi_voxel/phase_compiler.py",
+    "blob_sha": "4533ed87c3aaedb86654c8b45811f972ea52d642",
+    "url": "https://github.com/JasonSEFIDEFI/SEFI-Voxel/blob/f8737ca47620e4c9c5143e6baa8ca301bbaa8b7d/src/sefi_voxel/phase_compiler.py",
+    "review": "targeted source/report inspection; historical runs not all repeated"
+  }
+]

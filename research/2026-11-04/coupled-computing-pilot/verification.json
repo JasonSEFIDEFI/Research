@@ -1,0 +1,11 @@
+{
+  "saved_method_cases_passed": 360,
+  "independent_block_instances": 40,
+  "rk4_exact_scalar_errors": [
+    1.4176727037185088e-05,
+    8.366654262736972e-07,
+    5.067789321522298e-08
+  ],
+  "undamped_control": "bounded but not convergent",
+  "passed": true
+}

@@ -1,0 +1,176 @@
+{
+  "dna": {
+    "helical_ratio": 1.9403954625113429,
+    "golden_target": 1.9416110387254664,
+    "relative_difference": -0.0006260657721237628,
+    "stated_phase_formula_degrees": 58.24922359499622
+  },
+  "origin": {
+    "energy_derivative_identity": "alpha*v*(q_ddot+q)=0",
+    "nonzero_clock_stationary": false
+  },
+  "linear_spectrum": {
+    "matrices": 1000,
+    "max_absolute_error": 1.1102230246251565e-15,
+    "stable_condition": "r<1",
+    "threshold": "r=1 allows linear drift",
+    "unstable_example_r": 1.2,
+    "growing_rate": 0.4472135954999579
+  },
+  "floquet": {
+    "1.4142135623730951": {
+      "matrix": [
+        [
+          -1.012333457707967,
+          -0.22485030402466044
+        ],
+        [
+          -0.1103802358757222,
+          -1.0123334577079668
+        ]
+      ],
+      "multipliers": [
+        {
+          "real": -1.1698740226268787,
+          "imag": 0.0
+        },
+        {
+          "real": -0.8547928927890551,
+          "imag": 0.0
+        }
+      ],
+      "spectral_radius": 1.1698740226268787,
+      "envelope_growth_rate": 0.03531402295039317,
+      "convergence": [
+        {
+          "steps": 128,
+          "trace": -2.0246669141926334,
+          "determinant": 0.9999999995648057,
+          "max_change": null
+        },
+        {
+          "steps": 256,
+          "trace": -2.0246669153532473,
+          "determinant": 0.9999999999863983,
+          "max_change": 1.6926776008618916e-08
+        },
+        {
+          "steps": 512,
+          "trace": -2.0246669154124586,
+          "determinant": 0.9999999999995745,
+          "max_change": 1.0566661989841464e-09
+        },
+        {
+          "steps": 1024,
+          "trace": -2.024666915415744,
+          "determinant": 0.9999999999999877,
+          "max_change": 6.599831792186706e-11
+        },
+        {
+          "steps": 2048,
+          "trace": -2.024666915415934,
+          "determinant": 0.9999999999999981,
+          "max_change": 4.12395118054576e-12
+        }
+      ]
+    },
+    "2.2": {
+      "matrix": [
+        [
+          -0.4369942829183,
+          1.1840059721902902
+        ],
+        [
+          -0.6833039830027955,
+          -0.43699428291830067
+        ]
+      ],
+      "multipliers": [
+        {
+          "real": -0.43699428291830034,
+          "imag": 0.8994642831689996
+        },
+        {
+          "real": -0.43699428291830034,
+          "imag": -0.8994642831689996
+        }
+      ],
+      "spectral_radius": 1.0000000000000009,
+      "envelope_growth_rate": 3.1098756885421044e-16,
+      "convergence": [
+        {
+          "steps": 128,
+          "trace": -0.8739885636562754,
+          "determinant": 0.999999999966956,
+          "max_change": null
+        },
+        {
+          "steps": 256,
+          "trace": -0.8739885657007964,
+          "determinant": 0.999999999998967,
+          "max_change": 1.5083703175378105e-09
+        },
+        {
+          "steps": 512,
+          "trace": -0.8739885658281569,
+          "determinant": 0.9999999999999658,
+          "max_change": 9.487299834631813e-11
+        },
+        {
+          "steps": 1024,
+          "trace": -0.8739885658361037,
+          "determinant": 0.9999999999999976,
+          "max_change": 5.949019055151439e-12
+        },
+        {
+          "steps": 2048,
+          "trace": -0.8739885658366007,
+          "determinant": 1.000000000000002,
+          "max_change": 3.708144902248023e-13
+        }
+      ]
+    }
+  },
+  "qec_projection_counterexample": {
+    "surface": "z=x^2-y^2",
+    "point": [
+      1.0,
+      0.0,
+      2.0
+    ],
+    "vertical_projection": [
+      1.0,
+      0.0,
+      1.0
+    ],
+    "vertical_distance": 1.0,
+    "alternative_surface_point": [
+      1.1,
+      0.0,
+      1.21
+    ],
+    "alternative_distance": 0.7963039620647383
+  },
+  "qec_frenet_at_zero": {
+    "reference_velocity": [
+      1,
+      1,
+      0
+    ],
+    "reference_acceleration": [
+      0,
+      0,
+      0
+    ],
+    "curvature": 0,
+    "normal_and_binormal_defined": false
+  },
+  "interference_counterexample": {
+    "equal_support": true,
+    "amplitude_A": 1,
+    "amplitude_B": -1,
+    "total_intensity": 0,
+    "individual_intensities_sum": 2,
+    "conclusion": "Unweighted support intersection alone cannot encode destructive interference."
+  }
+}

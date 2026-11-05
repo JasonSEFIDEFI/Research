@@ -1,0 +1,274 @@
+[
+  {
+    "source": "C:\\Users\\jason\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SEFI_independent_checks.json",
+    "decision": "saved for push",
+    "repository": "Research",
+    "destination": "research/2026-11-04/recovered-reviews/2026-10-22/SEFI_independent_checks.json",
+    "git_blob": "e798dd05b38b85a02dfa1ca386bad07f50b6b9eb",
+    "bytes": 4431
+  },
+  {
+    "source": "C:\\Users\\jason\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SEFI_research_review.md",
+    "decision": "saved for push",
+    "repository": "Research",
+    "destination": "research/2026-11-04/recovered-reviews/2026-10-22/SEFI_research_review.md",
+    "git_blob": "3fb68e8990d5e88c5d469a820b3d80f699f3d38a",
+    "bytes": 21704
+  },
+  {
+    "source": "C:\\Users\\jason\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SEFI_review_source_manifest.json",
+    "decision": "saved for push",
+    "repository": "Research",
+    "destination": "research/2026-11-04/recovered-reviews/2026-10-22/SEFI_review_source_manifest.json",
+    "git_blob": "99edc64c8010e08d8b83ee05acb4bbb2372789a8",
+    "bytes": 2364
+  },
+  {
+    "source": "C:\\Users\\jason\\Documents\\Codex\\2026-10-24\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\RESEARCH_PRIORITIES_2026_10_24.md",
+    "decision": "already published",
+    "location": {
+      "repo": "Research",
+      "path": "research/2026-10-24/research-priorities/REVIEW.md",
+      "sha": "c607c71f4fca8c5645e64ecf8166a3bf25817f1d"
+    }
+  },
+  {
+    "source": "C:\\Users\\jason\\Documents\\Codex\\2026-10-24\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\RESEARCH_REVIEW_SOURCES_2026_10_24.json",
+    "decision": "already published",
+    "location": {
+      "repo": "Research",
+      "path": "research/2026-10-24/research-priorities/source_manifest.json",
+      "sha": "efad61912b81f3a9a20a6a4f2f2398469ee3fcb3"
+    }
+  },
+  {
+    "source": "C:\\Users\\jason\\Documents\\Codex\\2026-10-24\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sefi_hamiltonian_audit.zip",
+    "decision": "saved for push",
+    "repository": "Research",
+    "destination": "research/2026-11-04/recovered-reviews/2026-10-24/sefi_hamiltonian_audit.zip",
+    "git_blob": "a68574602ee9487cc386b692d1d20477d6976b2b",
+    "bytes": 58048
+  },
+  {
+    "source": "C:\\Users\\jason\\Documents\\Codex\\2026-10-27\\i-need\\outputs\\generate_photonics_figures.py",
+    "decision": "already published",
+    "location": {
+      "repo": "SEFI-Manuscripts",
+      "path": "photonic-qec-full/candidate-figures-2026-10-28/generate_photonics_figures.py",
+      "sha": "a31b2a983d9534f8fdcee313deb7f18275edff5b"
+    }
+  },
+  {
+    "source": "C:\\Users\\jason\\Documents\\Codex\\2026-10-27\\i-need\\outputs\\photonics-figure-prompts.md",
+    "decision": "already published",
+    "location": {
+      "repo": "SEFI-Manuscripts",
+      "path": "photonic-qec-full/candidate-figures-2026-10-28/photonics-figure-prompts.md",
+      "sha": "cd200584fbcc4d30c7ac3e56d885b75564fa3062"
+    }
+  },
+  {
+    "source": "C:\\Users\\jason\\Documents\\Codex\\2026-10-27\\i-need\\outputs\\photonics-figures.zip",
+    "decision": "saved for push",
+    "repository": "SEFI-Manuscripts",
+    "destination": "research-updates/2026-11-04/recovered-deliverables/2026-10-27/photonics-figures.zip",
+    "git_blob": "f7387382f397039e471c740de5e1efba56516e0d",
+    "bytes": 8284777
+  },
+  {
+    "source": "C:\\Users\\jason\\Documents\\Codex\\2026-10-28\\jmp-edoffice-aip-org-dear-mr\\outputs\\Photonics_Highlight_Image.png",
+    "decision": "saved for push",
+    "repository": "SEFI-Manuscripts",
+    "destination": "research-updates/2026-11-04/recovered-deliverables/2026-10-28/Photonics_Highlight_Image.png",
+    "git_blob": "9aa0904343056eb24a6a65535453466018234d27",
+    "bytes": 2109588
+  },
+  {
+    "source": "C:\\Users\\jason\\Documents\\Codex\\2026-10-28\\jmp-edoffice-aip-org-dear-mr\\outputs\\SEFI_Research_GitHub_Avatar.jpg",
+    "decision": "saved for push",
+    "repository": "SEFI-Manuscripts",
+    "destination": "research-updates/2026-11-04/recovered-deliverables/2026-10-28/SEFI_Research_GitHub_Avatar.jpg",
+    "git_blob": "47b09034822c03992d466065ba0afcc78d81ca7d",
+    "bytes": 407749
+  },
+  {
+    "source": "C:\\Users\\jason\\Documents\\Codex\\2026-10-29\\i-w\\outputs\\prospective.pdf",
+    "decision": "saved for push",
+    "repository": "SEFI-Manuscripts",
+    "destination": "research-updates/2026-11-04/recovered-deliverables/2026-10-29/prospective.pdf",
+    "git_blob": "bcdf382309bde60803d1d59fd412540d2b6c98f9",
+    "bytes": 313748
+  },
+  {
+    "source": "C:\\Users\\jason\\Documents\\Codex\\2026-10-29\\i-w\\outputs\\prospective.tex",
+    "decision": "saved for push",
+    "repository": "SEFI-Manuscripts",
+    "destination": "research-updates/2026-11-04/recovered-deliverables/2026-10-29/prospective.tex",
+    "git_blob": "f6e3ef2014c6a0d6f29f0684a5c3ee5026edab83",
+    "bytes": 36756
+  },
+  {
+    "source": "C:\\Users\\jason\\Documents\\Codex\\2026-10-29\\i-w\\outputs\\SEFI-Advisor-Learning-Hub.zip",
+    "decision": "saved for push",
+    "repository": "SEFI-Manuscripts",
+    "destination": "research-updates/2026-11-04/recovered-deliverables/2026-10-29/SEFI-Advisor-Learning-Hub.zip",
+    "git_blob": "a0b9eb4594a1e57dbd4f95058cbfaa37c486db78",
+    "bytes": 15793854
+  },
+  {
+    "source": "C:\\Users\\jason\\Documents\\Codex\\2026-10-29\\i-w\\outputs\\SEFI-Advisor-Package.zip",
+    "decision": "saved for push",
+    "repository": "SEFI-Manuscripts",
+    "destination": "research-updates/2026-11-04/recovered-deliverables/2026-10-29/SEFI-Advisor-Package.zip",
+    "git_blob": "34594866326d019d40fd8479f01649b7f767f5a8",
+    "bytes": 6416851
+  },
+  {
+    "source": "C:\\Users\\jason\\Documents\\Codex\\2026-10-29\\i-w\\outputs\\SEFI-Advisor-Portal-Preview.jpg",
+    "decision": "saved for push",
+    "repository": "SEFI-Manuscripts",
+    "destination": "research-updates/2026-11-04/recovered-deliverables/2026-10-29/SEFI-Advisor-Portal-Preview.jpg",
+    "git_blob": "19db768c442ab3dc7fbec3314fa5ad51ee401d4a",
+    "bytes": 127577
+  },
+  {
+    "source": "C:\\Users\\jason\\Documents\\Codex\\2026-10-29\\i-w\\outputs\\SEFI-Foundations-Working-Project.zip",
+    "decision": "saved for push",
+    "repository": "SEFI-Manuscripts",
+    "destination": "research-updates/2026-11-04/recovered-deliverables/2026-10-29/SEFI-Foundations-Working-Project.zip",
+    "git_blob": "a78cde92e31f42fe2b14eaf1823da6fea02279fc",
+    "bytes": 325875
+  },
+  {
+    "source": "C:\\Users\\jason\\Documents\\Codex\\2026-10-29\\i-w\\outputs\\SEFI-Graphical-Abstract-Complete-Project.zip",
+    "decision": "saved for push",
+    "repository": "SEFI-Manuscripts",
+    "destination": "research-updates/2026-11-04/recovered-deliverables/2026-10-29/SEFI-Graphical-Abstract-Complete-Project.zip",
+    "git_blob": "db7cc3fb6f7e30e2fb640087809892ec5f326f19",
+    "bytes": 62958868
+  },
+  {
+    "source": "C:\\Users\\jason\\Documents\\Codex\\2026-10-29\\i-w\\outputs\\SEFI-Graphical-Abstract-Corrected.mp4",
+    "decision": "saved for push",
+    "repository": "SEFI-Manuscripts",
+    "destination": "research-updates/2026-11-04/recovered-deliverables/2026-10-29/SEFI-Graphical-Abstract-Corrected.mp4",
+    "git_blob": "c28381cc5f5db545562c4edb50910aeb16d3acc6",
+    "bytes": 6135057
+  },
+  {
+    "source": "C:\\Users\\jason\\Documents\\Codex\\2026-10-29\\i-w\\outputs\\SEFI-Manuscript-Source.zip",
+    "decision": "duplicate bytes retained once"
+  },
+  {
+    "source": "C:\\Users\\jason\\Documents\\Codex\\2026-10-29\\i-w\\outputs\\SEFI-Manuscript.pdf",
+    "decision": "saved for push",
+    "repository": "SEFI-Manuscripts",
+    "destination": "research-updates/2026-11-04/recovered-deliverables/2026-10-29/SEFI-Manuscript.pdf",
+    "git_blob": "ddc56b2bbd12ae31b7f6ca76cdfd92e862649251",
+    "bytes": 310095
+  },
+  {
+    "source": "C:\\Users\\jason\\Documents\\Codex\\2026-10-29\\i-w\\outputs\\SEFI-Research-Prospectus.pdf",
+    "decision": "saved for push",
+    "repository": "SEFI-Manuscripts",
+    "destination": "research-updates/2026-11-04/recovered-deliverables/2026-10-29/SEFI-Research-Prospectus.pdf",
+    "git_blob": "de75eedd38b68552543901e159190b75a70c87fd",
+    "bytes": 324572
+  },
+  {
+    "source": "C:\\Users\\jason\\Documents\\Codex\\2026-10-29\\i-w\\outputs\\SEFI-Video-Abstract-Read-Aloud.txt",
+    "decision": "saved for push",
+    "repository": "SEFI-Manuscripts",
+    "destination": "research-updates/2026-11-04/recovered-deliverables/2026-10-29/SEFI-Video-Abstract-Read-Aloud.txt",
+    "git_blob": "05665f03e1abf959e59b391d65ec410f76b5e961",
+    "bytes": 2945
+  },
+  {
+    "source": "C:\\Users\\jason\\Documents\\Codex\\2026-10-29\\i-w\\outputs\\SEFI-Video-Abstract-Recording-Script.md",
+    "decision": "saved for push",
+    "repository": "SEFI-Manuscripts",
+    "destination": "research-updates/2026-11-04/recovered-deliverables/2026-10-29/SEFI-Video-Abstract-Recording-Script.md",
+    "git_blob": "ab6326bf6789d40d25db10dceaa6bd1748fa8807",
+    "bytes": 6453
+  },
+  {
+    "source": "C:\\Users\\jason\\Documents\\Codex\\2026-11-03\\i-need-you-to-reformat-the\\outputs\\Big-Picture-manuscript.docx",
+    "decision": "saved for push",
+    "repository": "SEFI-Manuscripts",
+    "destination": "research-updates/2026-11-04/word-manuscripts/Big-Picture-manuscript.docx",
+    "git_blob": "9e7f668e74b01319b374cbacc6400d86def7af6e",
+    "bytes": 284384
+  },
+  {
+    "source": "C:\\Users\\jason\\Documents\\Codex\\2026-11-03\\i-need-you-to-reformat-the\\outputs\\DEFI-manuscript.docx",
+    "decision": "saved for push",
+    "repository": "SEFI-Manuscripts",
+    "destination": "research-updates/2026-11-04/word-manuscripts/DEFI-manuscript.docx",
+    "git_blob": "2e342eefb7f24c8fd2330f34a4d76f9c4b04a9fc",
+    "bytes": 2630576
+  },
+  {
+    "source": "C:\\Users\\jason\\Documents\\Codex\\2026-11-03\\i-need-you-to-reformat-the\\outputs\\DNA-manuscript.docx",
+    "decision": "saved for push",
+    "repository": "SEFI-Manuscripts",
+    "destination": "research-updates/2026-11-04/word-manuscripts/DNA-manuscript.docx",
+    "git_blob": "cc9200244a65663db606fc8e14ed0aff11c2c903",
+    "bytes": 986224
+  },
+  {
+    "source": "C:\\Users\\jason\\Documents\\Codex\\2026-11-03\\i-need-you-to-reformat-the\\outputs\\GWFM-manuscript.docx",
+    "decision": "saved for push",
+    "repository": "SEFI-Manuscripts",
+    "destination": "research-updates/2026-11-04/word-manuscripts/GWFM-manuscript.docx",
+    "git_blob": "4d618f17f8c337f88fc8820596edbf7280183520",
+    "bytes": 193176
+  },
+  {
+    "source": "C:\\Users\\jason\\Documents\\Codex\\2026-11-03\\i-need-you-to-reformat-the\\outputs\\Manuscript-Conversion-Notes.txt",
+    "decision": "saved for push",
+    "repository": "SEFI-Manuscripts",
+    "destination": "research-updates/2026-11-04/word-manuscripts/Manuscript-Conversion-Notes.txt",
+    "git_blob": "435642b9fe419b9bdaea3d765021903ce5cb1780",
+    "bytes": 1983
+  },
+  {
+    "source": "C:\\Users\\jason\\Documents\\Codex\\2026-11-03\\i-need-you-to-reformat-the\\outputs\\Phase-Dynamics-Temporal-Ordering.docx",
+    "decision": "saved for push",
+    "repository": "SEFI-Manuscripts",
+    "destination": "research-updates/2026-11-04/word-manuscripts/Phase-Dynamics-Temporal-Ordering.docx",
+    "git_blob": "4f1402c9bbbdc078a014feca1b7619b62750c317",
+    "bytes": 379676
+  },
+  {
+    "source": "C:\\Users\\jason\\Documents\\Codex\\2026-11-03\\i-need-you-to-reformat-the\\outputs\\Photonics-manuscript.docx",
+    "decision": "saved for push",
+    "repository": "SEFI-Manuscripts",
+    "destination": "research-updates/2026-11-04/word-manuscripts/Photonics-manuscript.docx",
+    "git_blob": "20a8a8ac919580909029f77f96c211e5894ee03f",
+    "bytes": 4621546
+  },
+  {
+    "source": "C:\\Users\\jason\\Documents\\Codex\\2026-11-03\\i-need-you-to-reformat-the\\outputs\\SEFI-GWFM-DEFI-A-Student-Guide.pdf",
+    "decision": "saved for push",
+    "repository": "SEFI-Manuscripts",
+    "destination": "research-updates/2026-11-04/word-manuscripts/SEFI-GWFM-DEFI-A-Student-Guide.pdf",
+    "git_blob": "fb91bd8edee868cc881ffb6e6d42527a83c985bc",
+    "bytes": 18519
+  },
+  {
+    "source": "C:\\Users\\jason\\Documents\\Codex\\2026-11-03\\i-need-you-to-reformat-the\\outputs\\SEFI-manuscript.docx",
+    "decision": "saved for push",
+    "repository": "SEFI-Manuscripts",
+    "destination": "research-updates/2026-11-04/word-manuscripts/SEFI-manuscript.docx",
+    "git_blob": "2fc1f0cb26838fa5ab8f759f41b8a3c09b024c4e",
+    "bytes": 535117
+  },
+  {
+    "source": "C:\\Users\\jason\\Documents\\Codex\\2026-11-03\\referenced-chatgpt-conversation-this-is-an\\outputs\\GWFM_AIUS_Manuscript.docx",
+    "decision": "saved for push",
+    "repository": "SEFI-Manuscripts",
+    "destination": "research-updates/2026-11-04/recovered-deliverables/2026-11-03/GWFM_AIUS_Manuscript.docx",
+    "git_blob": "4944f7bd088692cd0d113b946bb2870ded203862",
+    "bytes": 193995
+  }
+]

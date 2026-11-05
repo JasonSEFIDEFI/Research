@@ -1,0 +1,236 @@
+[
+  {
+    "path": "C:\\Users\\jason\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SEFI_independent_checks.json",
+    "bytes": 4431,
+    "git_blob": "e798dd05b38b85a02dfa1ca386bad07f50b6b9eb",
+    "existing": null
+  },
+  {
+    "path": "C:\\Users\\jason\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SEFI_research_review.md",
+    "bytes": 21704,
+    "git_blob": "3fb68e8990d5e88c5d469a820b3d80f699f3d38a",
+    "existing": null
+  },
+  {
+    "path": "C:\\Users\\jason\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SEFI_review_source_manifest.json",
+    "bytes": 2364,
+    "git_blob": "99edc64c8010e08d8b83ee05acb4bbb2372789a8",
+    "existing": null
+  },
+  {
+    "path": "C:\\Users\\jason\\Documents\\Codex\\2026-10-24\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\RESEARCH_PRIORITIES_2026_10_24.md",
+    "bytes": 19648,
+    "git_blob": "c607c71f4fca8c5645e64ecf8166a3bf25817f1d",
+    "existing": {
+      "repo": "Research",
+      "path": "research/2026-10-24/research-priorities/REVIEW.md",
+      "sha": "c607c71f4fca8c5645e64ecf8166a3bf25817f1d"
+    }
+  },
+  {
+    "path": "C:\\Users\\jason\\Documents\\Codex\\2026-10-24\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\RESEARCH_REVIEW_SOURCES_2026_10_24.json",
+    "bytes": 12389,
+    "git_blob": "efad61912b81f3a9a20a6a4f2f2398469ee3fcb3",
+    "existing": {
+      "repo": "Research",
+      "path": "research/2026-10-24/research-priorities/source_manifest.json",
+      "sha": "efad61912b81f3a9a20a6a4f2f2398469ee3fcb3"
+    }
+  },
+  {
+    "path": "C:\\Users\\jason\\Documents\\Codex\\2026-10-24\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sefi_hamiltonian_audit.zip",
+    "bytes": 58048,
+    "git_blob": "a68574602ee9487cc386b692d1d20477d6976b2b",
+    "existing": null,
+    "archive_entries": 11,
+    "sensitive_or_dependency_names": []
+  },
+  {
+    "path": "C:\\Users\\jason\\Documents\\Codex\\2026-10-27\\i-need\\outputs\\generate_photonics_figures.py",
+    "bytes": 13654,
+    "git_blob": "a31b2a983d9534f8fdcee313deb7f18275edff5b",
+    "existing": {
+      "repo": "SEFI-Manuscripts",
+      "path": "photonic-qec-full/candidate-figures-2026-10-28/generate_photonics_figures.py",
+      "sha": "a31b2a983d9534f8fdcee313deb7f18275edff5b"
+    }
+  },
+  {
+    "path": "C:\\Users\\jason\\Documents\\Codex\\2026-10-27\\i-need\\outputs\\photonics-figure-prompts.md",
+    "bytes": 14435,
+    "git_blob": "cd200584fbcc4d30c7ac3e56d885b75564fa3062",
+    "existing": {
+      "repo": "SEFI-Manuscripts",
+      "path": "photonic-qec-full/candidate-figures-2026-10-28/photonics-figure-prompts.md",
+      "sha": "cd200584fbcc4d30c7ac3e56d885b75564fa3062"
+    }
+  },
+  {
+    "path": "C:\\Users\\jason\\Documents\\Codex\\2026-10-27\\i-need\\outputs\\photonics-figures.zip",
+    "bytes": 8284777,
+    "git_blob": "f7387382f397039e471c740de5e1efba56516e0d",
+    "existing": null,
+    "archive_entries": 25,
+    "sensitive_or_dependency_names": []
+  },
+  {
+    "path": "C:\\Users\\jason\\Documents\\Codex\\2026-10-28\\jmp-edoffice-aip-org-dear-mr\\outputs\\Photonics_Highlight_Image.png",
+    "bytes": 2109588,
+    "git_blob": "9aa0904343056eb24a6a65535453466018234d27",
+    "existing": null
+  },
+  {
+    "path": "C:\\Users\\jason\\Documents\\Codex\\2026-10-28\\jmp-edoffice-aip-org-dear-mr\\outputs\\SEFI_Research_GitHub_Avatar.jpg",
+    "bytes": 407749,
+    "git_blob": "47b09034822c03992d466065ba0afcc78d81ca7d",
+    "existing": null
+  },
+  {
+    "path": "C:\\Users\\jason\\Documents\\Codex\\2026-10-29\\i-w\\outputs\\prospective.pdf",
+    "bytes": 313748,
+    "git_blob": "bcdf382309bde60803d1d59fd412540d2b6c98f9",
+    "existing": null
+  },
+  {
+    "path": "C:\\Users\\jason\\Documents\\Codex\\2026-10-29\\i-w\\outputs\\prospective.tex",
+    "bytes": 36756,
+    "git_blob": "f6e3ef2014c6a0d6f29f0684a5c3ee5026edab83",
+    "existing": null
+  },
+  {
+    "path": "C:\\Users\\jason\\Documents\\Codex\\2026-10-29\\i-w\\outputs\\SEFI-Advisor-Learning-Hub.zip",
+    "bytes": 15793854,
+    "git_blob": "a0b9eb4594a1e57dbd4f95058cbfaa37c486db78",
+    "existing": null,
+    "archive_entries": 22,
+    "sensitive_or_dependency_names": []
+  },
+  {
+    "path": "C:\\Users\\jason\\Documents\\Codex\\2026-10-29\\i-w\\outputs\\SEFI-Advisor-Package.zip",
+    "bytes": 6416851,
+    "git_blob": "34594866326d019d40fd8479f01649b7f767f5a8",
+    "existing": null,
+    "archive_entries": 5,
+    "sensitive_or_dependency_names": []
+  },
+  {
+    "path": "C:\\Users\\jason\\Documents\\Codex\\2026-10-29\\i-w\\outputs\\SEFI-Advisor-Portal-Preview.jpg",
+    "bytes": 127577,
+    "git_blob": "19db768c442ab3dc7fbec3314fa5ad51ee401d4a",
+    "existing": null
+  },
+  {
+    "path": "C:\\Users\\jason\\Documents\\Codex\\2026-10-29\\i-w\\outputs\\SEFI-Foundations-Working-Project.zip",
+    "bytes": 325875,
+    "git_blob": "a78cde92e31f42fe2b14eaf1823da6fea02279fc",
+    "existing": null,
+    "archive_entries": 14,
+    "sensitive_or_dependency_names": []
+  },
+  {
+    "path": "C:\\Users\\jason\\Documents\\Codex\\2026-10-29\\i-w\\outputs\\SEFI-Graphical-Abstract-Complete-Project.zip",
+    "bytes": 62958868,
+    "git_blob": "db7cc3fb6f7e30e2fb640087809892ec5f326f19",
+    "existing": null,
+    "archive_entries": 49,
+    "sensitive_or_dependency_names": []
+  },
+  {
+    "path": "C:\\Users\\jason\\Documents\\Codex\\2026-10-29\\i-w\\outputs\\SEFI-Graphical-Abstract-Corrected.mp4",
+    "bytes": 6135057,
+    "git_blob": "c28381cc5f5db545562c4edb50910aeb16d3acc6",
+    "existing": null
+  },
+  {
+    "path": "C:\\Users\\jason\\Documents\\Codex\\2026-10-29\\i-w\\outputs\\SEFI-Manuscript-Source.zip",
+    "bytes": 325875,
+    "git_blob": "a78cde92e31f42fe2b14eaf1823da6fea02279fc",
+    "existing": null,
+    "archive_entries": 14,
+    "sensitive_or_dependency_names": []
+  },
+  {
+    "path": "C:\\Users\\jason\\Documents\\Codex\\2026-10-29\\i-w\\outputs\\SEFI-Manuscript.pdf",
+    "bytes": 310095,
+    "git_blob": "ddc56b2bbd12ae31b7f6ca76cdfd92e862649251",
+    "existing": null
+  },
+  {
+    "path": "C:\\Users\\jason\\Documents\\Codex\\2026-10-29\\i-w\\outputs\\SEFI-Research-Prospectus.pdf",
+    "bytes": 324572,
+    "git_blob": "de75eedd38b68552543901e159190b75a70c87fd",
+    "existing": null
+  },
+  {
+    "path": "C:\\Users\\jason\\Documents\\Codex\\2026-10-29\\i-w\\outputs\\SEFI-Video-Abstract-Read-Aloud.txt",
+    "bytes": 2945,
+    "git_blob": "05665f03e1abf959e59b391d65ec410f76b5e961",
+    "existing": null
+  },
+  {
+    "path": "C:\\Users\\jason\\Documents\\Codex\\2026-10-29\\i-w\\outputs\\SEFI-Video-Abstract-Recording-Script.md",
+    "bytes": 6453,
+    "git_blob": "ab6326bf6789d40d25db10dceaa6bd1748fa8807",
+    "existing": null
+  },
+  {
+    "path": "C:\\Users\\jason\\Documents\\Codex\\2026-11-03\\i-need-you-to-reformat-the\\outputs\\Big-Picture-manuscript.docx",
+    "bytes": 284384,
+    "git_blob": "9e7f668e74b01319b374cbacc6400d86def7af6e",
+    "existing": null
+  },
+  {
+    "path": "C:\\Users\\jason\\Documents\\Codex\\2026-11-03\\i-need-you-to-reformat-the\\outputs\\DEFI-manuscript.docx",
+    "bytes": 2630576,
+    "git_blob": "2e342eefb7f24c8fd2330f34a4d76f9c4b04a9fc",
+    "existing": null
+  },
+  {
+    "path": "C:\\Users\\jason\\Documents\\Codex\\2026-11-03\\i-need-you-to-reformat-the\\outputs\\DNA-manuscript.docx",
+    "bytes": 986224,
+    "git_blob": "cc9200244a65663db606fc8e14ed0aff11c2c903",
+    "existing": null
+  },
+  {
+    "path": "C:\\Users\\jason\\Documents\\Codex\\2026-11-03\\i-need-you-to-reformat-the\\outputs\\GWFM-manuscript.docx",
+    "bytes": 193176,
+    "git_blob": "4d618f17f8c337f88fc8820596edbf7280183520",
+    "existing": null
+  },
+  {
+    "path": "C:\\Users\\jason\\Documents\\Codex\\2026-11-03\\i-need-you-to-reformat-the\\outputs\\Manuscript-Conversion-Notes.txt",
+    "bytes": 1983,
+    "git_blob": "435642b9fe419b9bdaea3d765021903ce5cb1780",
+    "existing": null
+  },
+  {
+    "path": "C:\\Users\\jason\\Documents\\Codex\\2026-11-03\\i-need-you-to-reformat-the\\outputs\\Phase-Dynamics-Temporal-Ordering.docx",
+    "bytes": 379676,
+    "git_blob": "4f1402c9bbbdc078a014feca1b7619b62750c317",
+    "existing": null
+  },
+  {
+    "path": "C:\\Users\\jason\\Documents\\Codex\\2026-11-03\\i-need-you-to-reformat-the\\outputs\\Photonics-manuscript.docx",
+    "bytes": 4621546,
+    "git_blob": "20a8a8ac919580909029f77f96c211e5894ee03f",
+    "existing": null
+  },
+  {
+    "path": "C:\\Users\\jason\\Documents\\Codex\\2026-11-03\\i-need-you-to-reformat-the\\outputs\\SEFI-GWFM-DEFI-A-Student-Guide.pdf",
+    "bytes": 18519,
+    "git_blob": "fb91bd8edee868cc881ffb6e6d42527a83c985bc",
+    "existing": null
+  },
+  {
+    "path": "C:\\Users\\jason\\Documents\\Codex\\2026-11-03\\i-need-you-to-reformat-the\\outputs\\SEFI-manuscript.docx",
+    "bytes": 535117,
+    "git_blob": "2fc1f0cb26838fa5ab8f759f41b8a3c09b024c4e",
+    "existing": null
+  },
+  {
+    "path": "C:\\Users\\jason\\Documents\\Codex\\2026-11-03\\referenced-chatgpt-conversation-this-is-an\\outputs\\GWFM_AIUS_Manuscript.docx",
+    "bytes": 193995,
+    "git_blob": "4944f7bd088692cd0d113b946bb2870ded203862",
+    "existing": null
+  }
+]

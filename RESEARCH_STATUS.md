@@ -2,6 +2,17 @@
 
 Updated 24 October 2026. This repository was renamed from PhD to Research at the author's request. Repository history and existing manuscript status are retained.
 
+## Computing-resource hypothesis — 4 November 2026
+
+[Initial brief, protocol, code and results](research/2026-11-04/coupled-computing-pilot/README.md)
+test a forced, damped extension of the fixed-geometry DEFI linear oscillator reduction
+against conjugate gradient and a structure-aware algebraic solver. All 120 main cases
+met accuracy criteria; simulated dynamics were slower than both baselines. No physical
+energy measurement, hardware advantage or data-center reduction is established.
+Precision/readout sensitivity, missing physical assumptions, contributions and review
+gates are documented. **Exploratory / Not Promoted.** Jason Duran Dutton leads the work;
+Codex assisted with this initial pilot. Prior research priorities and draft branches remain.
+
 ## First correction and working manuscript — 25 October 2026
 
 [Critical-limit correction record](https://github.com/JasonSEFIDEFI/SEFI-PY/blob/18a5275df36d32af1b67d514c0c337637ff2c210/research/2026-10-25/critical-correction/README.md) derives first-order charge coefficients from the reduced stationary equations without fitting full-model charge data. At two declared new couplings, corrected errors against the computed full-model charges are 0.37–1.70 ppm, roughly 1,200–2,400 times smaller than the leading prediction errors. Checks include symbolic expansion, action comparisons, an independent sensitivity equation and domain/tolerance refinements. An explicit conditional maximum-principle bound controls one transverse-amplitude elimination step at prescribed f; it does not establish the full coupled expansion.

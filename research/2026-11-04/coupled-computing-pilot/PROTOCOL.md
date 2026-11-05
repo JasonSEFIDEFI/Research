@@ -1,0 +1,29 @@
+# Coupled-dynamics computing pilot — frozen initial protocol
+
+Date: 4 November 2026. Research lead: Jason Duran Dutton. AI assistance: Codex drafted this protocol and implementation; author and independent review are pending. This is an exploratory computing study, not physical validation of SEFI.
+
+## Question and scope
+
+Can a numerical implementation of the constant-geometry DEFI oscillator reduction, augmented with explicit input forcing and damping, solve a structured convex quadratic faster than conventional methods at matched residual? This tests the smallest direct computing interpretation of the supplied equations. It does not test a general optimizer, phase Ising machine, quantum computer, backward-time computation, or the full worldline action.
+
+The source reduction is X''+BX=0, B=[[1,a,b],[a,1,0],[b,0,1]], r=sqrt(a²+b²)<1. Eigenvalues are 1-r,1,1+r. Replicating independent three-coordinate blocks is a declared batching extension, not an interacting many-body SEFI derivation. Each block's a,b has random orientation and radius between 0.2r_max and r_max. The pilot minimizes f(x)=xᵀBx/2-uᵀx. Input is block coefficients and real forcing u; output is x approximating B⁻¹u. The proposed physical encoding would be signed coordinate amplitudes, signed couplers and constant forces, not an unspecified phase encoding.
+
+## Dynamics, initialization, readout
+
+Added engineering dynamics: x'=v; v'=u-Bx-cv, c=2 sqrt(1-r_max). Damping and forcing are additions, not results of the conservative action. With error energy E=||v||²/2+(x-x*)ᵀB(x-x*)/2, E'=-c||v||². Attraction requires this dissipation; conservative persistence alone does not solve the task. Initialize x=v=0; no warm start or correction. Integrate fixed-step classical RK4 with h=0.1. Check true relative residual ||Bx-u||₂/||u||₂ and ||v||₂/||u||₂ each step. Both must be ≤10⁻⁶ for five successive checks; stop at 20,000 steps otherwise. Readout x is an ordinary array. Baselines: matrix-free conjugate gradient (CG) from zero with true residual stopping, and a structure-aware algebraic block solve. Reference solutions use a separate NumPy batched dense solve.
+
+## Cases and resources
+
+Test sizes n=3,30,300,3000; r_max=0.5,0.9,0.99 (condition upper bounds 3,19,199). Ten independently generated cases per cell, seeds 11001–11010 through 23001–23010 as encoded in the script. No fitted hyperparameters or training data. All methods receive identical coefficients and forcing; solution quality is verified against the original input. Randomized method order, one discarded warm-up and three repeats per case. Record medians, raw repeats, residual, forward error, iteration counts, operator calls, simulated dimensionless duration and host wall time. Bootstrap paired case-level median time ratios with seed 7701, 2,000 resamples and percentile 95% intervals. These intervals describe sampled cases and this host, not all workloads or machines. Input generation and independent reference checking are separately timed and excluded from solve comparisons; per-method copies, initialization, stopping checks and readout are included. Process startup and library import are excluded. Shared preparation is never free in a deployment.
+
+Float64 main comparisons. Diagnostics use float32, h/2, rounded coefficients at 8/12/16 fractional bits and additive independent readout noise of standard deviation 10⁻⁶. These are sensitivity probes, not calibrated device noise or an energy model. Preserve original-input residual after perturbations. Do not silently repair inaccurate outputs; correction would require additional computation and measurement. Array storage is O(n), with two dynamical state arrays plus RK stages; no dense n×n allocation. Each operator evaluation communicates within independent blocks; no network communication is measured.
+
+## Decisions set before comparisons
+
+Correctness success: every noiseless float64 case meets residual ≤10⁻⁶ and relative forward error ≤10⁻³. Performance candidate: at both n=300 and 3000 and every r_max, the upper 95% bound of oscillator/fastest-correct-baseline median time ratio is below 0.8, with no quality failures. Otherwise no software advantage is supported for this pilot. A single configuration failing correctness rejects the stated all-cases claim. Failure to beat the structure-aware solver rules out the proposed software benefit on this block workload under this implementation; it does not rule out every possible algorithm or architecture. Noise/precision failures delimit attainable accuracy and cannot be removed by relabeling stability. No physical energy success can be declared without a device and end-to-end measurements.
+
+## Physical and infrastructure follow-up gates
+
+Before a physical comparison specify masses/capacitances, stiffness/conductance mapping, force/voltage ranges, physical time scale, coupler programming, DAC/ADC bits, thermal/drift noise and tolerances, dissipative losses, drive/control power and reset/retry rules. Measure E_total=E_program+E_reset+integral(P_device+P_control+P_memory+P_io)dt+E_readout+E_verify+E_correction, including failed attempts, amortized over declared reuse. Dimensionless E and integration duration are not joules and seconds. Persistent configurations can incur holding/control costs. Calibration and verification must not use known solutions unavailable in deployment.
+
+Only advance to infrastructure claims after useful real workload instances, stronger optimized baselines, comparable throughput/latency/availability, accelerator utilization and host overhead, precision/noise/aging measurements and complete energy/resource accounting. If fraction f of facility work benefits by factor s with no other overhead, ideal total reduction is at most f(1-1/s); include actual added overhead and cooling effects. Reduced per-task energy does not automatically reduce installed server capacity or peak demand.

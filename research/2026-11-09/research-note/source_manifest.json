@@ -1,0 +1,11 @@
+{
+  "date": "2026-11-09",
+  "status": "Exploratory / Not Promoted",
+  "document_kind": "Research note draft for author review",
+  "assistance": "AI-assisted; no independent reviewer",
+  "audited_calculation_commit": "6bf404a86f7d6390174615590338f00f9035b521",
+  "technical_self_audit_passed": true,
+  "independent_review_complete": false,
+  "matter_derivation_supported": false,
+  "note_sha256_LF_UTF8": "de9b8550461e503962b4094462db2bab4099ea3cecf0927c39759b7108692d58"
+}

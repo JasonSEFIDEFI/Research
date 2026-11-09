@@ -1,3 +1,7 @@
+# Research note — 9 November 2026
+
+[Constrained radial stability of a charged two-field scalar model](research/2026-11-09/research-note/RESEARCH_NOTE.md) presents the completed internal technical milestone and its correction, with the exact audited calculation pinned at `6bf404a86f7d6390174615590338f00f9035b521`. This is an exploratory draft for author review, not an independent-review pass, formal promotion, journal submission or derivation of observed matter. The corrected numerical tests pass within their stated finite-grid scope; independent review and the outstanding physical/continuum requirements remain open.
+
 # Step 8 technical audit and corrective calculation — 9 November 2026
 
 [Technical review](research/2026-11-09/technical-review/TECHNICAL_REVIEW.md) identifies and corrects a substantive numerical issue: the interpolated BVP profile was not stationary on the Hamiltonian grid. A new variational-grid fixed-charge Newton solve reduces gauge/charge defects to 1.81e-13 or less while retaining positive constrained radial energy and no computed growing mode (maximum absolute real part below 2.62e-14). A separately differentiated canonical Hamiltonian matches the assembled Hessian to 8.89e-16. The prior archive manifests and isolated-directory observable reproduction pass on the same runtime.
@@ -153,6 +157,7 @@ The folder includes the complete derivation, pinned source manifest, reproducibl
 The inspected SEFI formulations do not yet select a full physical state space, constitutive functions and admissible-state constraints, quantization and normalized observation law with calibrated predictions. These remain research tasks. The energy obstruction informs the worldline/effective-action work; it is not a verdict on every realization or a reason to stop defined field calculations. Mathematical outcomes, including changes of shape, failures and equivalences to existing models, guide the next step.
 
 The research policy is to push completed, checked results, including failures and limitations. Public commits are research records, not claims of peer review, journal acceptance, novelty, or experimental verification.
+
 
 
 

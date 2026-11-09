@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-08",
+  "scope": "Exact identities for the existing canonical two-complex-scalar action; no independent novelty or physical-particle claim",
+  "symbolic_checks": {
+    "potential_conjugation_invariant": true,
+    "phase_charges_reverse": true,
+    "momentum_density_conjugation_invariant": true,
+    "vacuum_hessian": "Matrix([[(lambda + 12)/lambda, 0, 0, 0], [0, (lambda + 12)/lambda, 0, 0], [0, 0, 6, 0], [0, 0, 0, 0]])",
+    "stationary_equations_even_in_omega": true,
+    "fixed_charge_energy_even_in_Q": true,
+    "scalar_rotation_2pi_identity": true,
+    "single_winding_Jz_equals_nQ": true
+  },
+  "sampled_check": {
+    "lambda": 12,
+    "periodic_1D_points": 1024,
+    "length": 16.0,
+    "seed": 20261108,
+    "observables_E_Qphi_Qsigma_P": [
+      0.24840692666130276,
+      7.770276292913038e-05,
+      -0.001971281885109579,
+      -0.00017903550554213362
+    ],
+    "conjugates": [
+      0.24840692666130276,
+      -7.770276292913038e-05,
+      0.001971281885109579,
+      -0.00017903550554213362
+    ],
+    "absolute_errors": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "not_a_stationary_profile_or_particle_simulation": true
+  },
+  "vacuum_at_lambda_12": {
+    "phi_mass_squared": 2,
+    "sigma_radial_mass_squared": 6,
+    "sigma_phase_mass_squared": 0
+  },
+  "versions": {
+    "python": "3.14.7",
+    "sympy": "1.14.0",
+    "numpy": "2.5.2"
+  }
+}

@@ -2,6 +2,21 @@
 
 Updated 24 October 2026. This repository was renamed from PhD to Research at the author's request. Repository history and existing manuscript status are retained.
 
+## Charge conjugation and fixed charge topology — 8 November 2026
+
+[Derivations, checks and source versions](research/2026-11-08/charge-pair-topology/README.md)
+record exact conjugation pairing for the existing canonical scalar action and a
+charge-preserving topology calculation. A stated regular H1/L2 fixed-charge phase
+space is contractible; its global Phi phase quotient is simply connected. An L1
+condition on Sigma momentum makes its charge over the nonzero vacuum well-defined.
+This excludes a flat nontrivial rotation-loop sign on these specific spaces; it
+does not classify other infrared/gauge completions, bound-energy sublevels or all
+quantizations. Symbolic checks and finite-mode normalization checks passed. No
+electron/positron identification, new governing action, established novelty or
+experimental result is claimed. **Exploratory / Not Promoted.** Codex assisted
+with derivation, checks and drafting; independent technical review is pending.
+Existing research branches and priorities are preserved.
+
 ## Computing-resource hypothesis — 4 November 2026
 
 [Initial brief, protocol, code and results](research/2026-11-04/coupled-computing-pilot/README.md)

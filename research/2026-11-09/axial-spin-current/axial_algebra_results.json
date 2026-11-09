@@ -1,0 +1,19 @@
+{
+  "status": "Exploratory / Not Promoted",
+  "sympy": "1.14.0",
+  "checks": {
+    "charged_amplitude_EL": true,
+    "neutral_amplitude_EL": true,
+    "Gauss_EL": true,
+    "azimuthal_Maxwell_EL": true,
+    "angular_momentum_boundary_identity": true,
+    "potential_sum_of_squares": true,
+    "screened_b_transformation": true,
+    "virial_energy_identity": true
+  },
+  "all_passed": true,
+  "lambda_12_weak_probe_g_upper_exact": "sqrt(2)/sqrt(sqrt(3)/2 + 1)",
+  "lambda_12_weak_probe_g_upper": 1.035276180410083,
+  "lambda_threshold_for_upper_less_than_2": "12 - 8*sqrt(2)",
+  "scope": "Exact identities and conditional bound; no existence, novelty, independent review or half-spin derivation"
+}

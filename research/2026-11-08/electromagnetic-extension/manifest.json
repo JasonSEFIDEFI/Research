@@ -1,0 +1,15 @@
+{
+  "status": "Exploratory / Not Promoted",
+  "files": {
+    "check_gauge_algebra.py": "353b050854aa8ab29427a4ade2fdc2e0325f4baffb1bbf89e48b7feefcf5cc33",
+    "check_gauged_profiles.py": "25f29ea1d94d7df40ec97fafb91f9c1e2b3d9e0698fc53dc7abac2022a2ff3c5",
+    "ELECTROMAGNETIC_EXTENSION.md": "35a25e8a46a6e3ba2053c3f5e35528442cb97d54bd6c2899cc38790ae9bc2691",
+    "gauge_algebra_results.json": "fd104a71c5a72a869701d2afb61fd446e91e15db9af81d3735080699c3c7dab6",
+    "gauged_profile_results.json": "5c0a95658115443664977dae3bbf9470d0fe36b265ee85260e2ba293b06df88c",
+    "PROTOCOL.md": "2ce1678104bdfed7ee6b112dc5a719331a90fa790608720bc571ea8573f60f79",
+    "README.md": "d75937b87892b969c084f207ed0f490a7946d5584951bf4bba9ca4c1181ae947",
+    "requirements.txt": "7b2d0bb59a81989f4efa5cf19e5499c140190970a4f1dfeed44c9823d0599367",
+    "seed_profile.csv": "3146462ca015a513afb6bd738309ade58fed1fc2ae46c3b9700f6b461609d665",
+    "source_manifest.json": "2b4c7cf700605296b740eb2e3785fb37baa51c0b745bbf5ef79250cd863c05b3"
+  }
+}

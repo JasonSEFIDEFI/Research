@@ -1,0 +1,96 @@
+{
+  "date": "2026-11-08",
+  "status": "all exact symbolic and fixed-sector checks passed",
+  "assumptions": [
+    "prescribed constant geometry",
+    "constant couplings, shifted oscillator equilibria",
+    "canonical normalization of the selected two modes",
+    "equal frequencies for conserved SU(2)",
+    "canonical bosonic quantization for the quantum matrix comparison"
+  ],
+  "coordinate_packing": {
+    "hopf_polynomial_identity": true,
+    "canonical_brackets": "zero",
+    "norm_derivative": "2*p1*q1 + 2*p2*q2 + 2*p3*q3 + 2*p4*q4",
+    "norm_can_cross_zero_at_nonzero_energy": true
+  },
+  "canonical_packing": {
+    "poisson_su2": true,
+    "classical_casimir": "N**2/4",
+    "generator_rates_for_split_frequencies": [
+      "(omega1 - omega2)*(p1*q2 - p2*q1)/2",
+      "(omega1 - omega2)*(p1*p2 + q1*q2)/2",
+      "0"
+    ],
+    "degenerate_conservation": true
+  },
+  "quantum_sectors": [
+    {
+      "N": 0,
+      "dimension": 1,
+      "j": "0",
+      "casimir": "0",
+      "central_2pi_sign": 1
+    },
+    {
+      "N": 1,
+      "dimension": 2,
+      "j": "1/2",
+      "casimir": "3/4",
+      "central_2pi_sign": -1
+    },
+    {
+      "N": 2,
+      "dimension": 3,
+      "j": "1",
+      "casimir": "2",
+      "central_2pi_sign": 1
+    },
+    {
+      "N": 3,
+      "dimension": 4,
+      "j": "3/2",
+      "casimir": "15/4",
+      "central_2pi_sign": -1
+    },
+    {
+      "N": 4,
+      "dimension": 5,
+      "j": "2",
+      "casimir": "6",
+      "central_2pi_sign": 1
+    },
+    {
+      "N": 5,
+      "dimension": 6,
+      "j": "5/2",
+      "casimir": "35/4",
+      "central_2pi_sign": -1
+    },
+    {
+      "N": 6,
+      "dimension": 7,
+      "j": "3",
+      "casimir": "12",
+      "central_2pi_sign": 1
+    }
+  ],
+  "full_linearized_model": {
+    "arrowhead_characteristic": "a*d*e - a*d*r - a*e*r + a*r**2 - b**2*e + b**2*r - c**2*d + c**2*r - d*e*r + d*r**2 + e*r**2 - r**3",
+    "repeated_eigenvalue_necessary_minor": "-b*c",
+    "both_nonzero_offdiagonal_couplings_imply_simple_ASW_spectrum": true,
+    "example_ASW_squared_frequencies": [
+      "2",
+      "3-sqrt(3)",
+      "3+sqrt(3)"
+    ],
+    "origin_pair_possible_if_origin_squared_frequency_is_2": true,
+    "degeneracy_not_generically_enforced": true
+  },
+  "spatial_spin_identification": false,
+  "scope": "Standard internal oscillator algebra; no electron, electromagnetic charge, exchange-statistics or Lorentz-spin derivation",
+  "versions": {
+    "python": "3.14.7",
+    "sympy": "1.14.0"
+  }
+}

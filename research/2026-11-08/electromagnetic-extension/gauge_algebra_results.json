@@ -1,0 +1,16 @@
+{
+  "status": "Exploratory / Not Promoted",
+  "sympy": "1.14.0",
+  "checks": {
+    "covariant_derivative": true,
+    "scalar_current_sign_and_half_normalization": true,
+    "phi_potential_force": true,
+    "sigma_potential_force": true,
+    "charge_conjugation_source": true,
+    "charge_conjugation_energy": true,
+    "charged_condensate_photon_mass_squared": true,
+    "radial_gauss_divergence": true
+  },
+  "all_passed": true,
+  "limits": "These finite algebra checks do not prove dynamical stability or derive the charge coupling."
+}

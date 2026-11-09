@@ -1,0 +1,456 @@
+{
+  "status": "Exploratory / Not Promoted",
+  "scope": "Adaptive extension after the radial test: static real-amplitude harmonics, no dynamical modes",
+  "results": [
+    {
+      "q": 0.0,
+      "omega": 1.40122308451528,
+      "radius": 80.0,
+      "h": 0.2,
+      "ell": 1,
+      "capacitance": 892.2029261217773,
+      "discrete_charge_number": 1250.1753361539152,
+      "sampled_high_ell_bound": 7.502385097652215,
+      "lowest_eigenvalues": [
+        -5.837269424421739e-05,
+        0.03980236042288666,
+        0.046367353580056135,
+        0.0564857542380844
+      ],
+      "eigenpair_residuals": [
+        4.560294687895143e-14,
+        8.750422468915408e-14,
+        7.800999001080535e-14,
+        8.32007467690667e-14
+      ],
+      "capacitance_variation_checks": [],
+      "electrostatic_energy_second_variation_checks": [],
+      "sign": "negative direction in this discretized restricted subspace"
+    },
+    {
+      "q": 0.0,
+      "omega": 1.40122308451528,
+      "radius": 80.0,
+      "h": 0.1,
+      "ell": 1,
+      "capacitance": 892.2029261348441,
+      "discrete_charge_number": 1250.175336172225,
+      "sampled_high_ell_bound": 7.507198901475674,
+      "lowest_eigenvalues": [
+        -1.4581488475760158e-05,
+        0.039802494209660706,
+        0.04636819330627599,
+        0.056488232505148506
+      ],
+      "eigenpair_residuals": [
+        2.5222456707884487e-13,
+        3.473483184168177e-13,
+        3.7109616583443963e-13,
+        3.582741445508577e-13
+      ],
+      "capacitance_variation_checks": [],
+      "electrostatic_energy_second_variation_checks": [],
+      "sign": "negative direction in this discretized restricted subspace"
+    },
+    {
+      "q": 0.0,
+      "omega": 1.40122308451528,
+      "radius": 80.0,
+      "h": 0.05,
+      "ell": 1,
+      "capacitance": 892.2029265755305,
+      "discrete_charge_number": 1250.1753367897247,
+      "sampled_high_ell_bound": 7.5078184572962146,
+      "lowest_eigenvalues": [
+        -3.646490441997234e-06,
+        0.03980252764915131,
+        0.04636840316931707,
+        0.05648885184934551
+      ],
+      "eigenpair_residuals": [
+        9.62649890213451e-13,
+        1.8987145700733344e-12,
+        1.6587273000393375e-12,
+        1.7303755931454162e-12
+      ],
+      "capacitance_variation_checks": [],
+      "electrostatic_energy_second_variation_checks": [],
+      "sign": "negative direction in this discretized restricted subspace"
+    },
+    {
+      "q": 0.0,
+      "omega": 1.40122308451528,
+      "radius": 80.0,
+      "h": 0.2,
+      "ell": 2,
+      "capacitance": 892.2029261217773,
+      "discrete_charge_number": 1250.1753361539152,
+      "sampled_high_ell_bound": 7.502385097652215,
+      "lowest_eigenvalues": [
+        0.04175220535114059,
+        0.04932782131761021,
+        0.059224860237939145,
+        0.07012009548937716
+      ],
+      "eigenpair_residuals": [
+        9.332659932408797e-14,
+        9.797643337956944e-14,
+        7.999721717227598e-14,
+        7.364881298714328e-14
+      ],
+      "capacitance_variation_checks": [],
+      "electrostatic_energy_second_variation_checks": [],
+      "sign": "positive in this discretized restricted subspace"
+    },
+    {
+      "q": 0.0,
+      "omega": 1.40122308451528,
+      "radius": 80.0,
+      "h": 0.1,
+      "ell": 2,
+      "capacitance": 892.2029261348441,
+      "discrete_charge_number": 1250.175336172225,
+      "sampled_high_ell_bound": 7.507198901475674,
+      "lowest_eigenvalues": [
+        0.04175223246259858,
+        0.04932809166657545,
+        0.059226212290887086,
+        0.07012478444325798
+      ],
+      "eigenpair_residuals": [
+        3.4281035181706466e-13,
+        3.3679514056030625e-13,
+        3.2908984685869704e-13,
+        3.5437210296174263e-13
+      ],
+      "capacitance_variation_checks": [],
+      "electrostatic_energy_second_variation_checks": [],
+      "sign": "positive in this discretized restricted subspace"
+    },
+    {
+      "q": 0.0,
+      "omega": 1.40122308451528,
+      "radius": 80.0,
+      "h": 0.05,
+      "ell": 2,
+      "capacitance": 892.2029265755305,
+      "discrete_charge_number": 1250.1753367897247,
+      "sampled_high_ell_bound": 7.5078184572962146,
+      "lowest_eigenvalues": [
+        0.041752239239738496,
+        0.04932815923200136,
+        0.059226550050061874,
+        0.07012595548997533
+      ],
+      "eigenpair_residuals": [
+        1.8663943951423013e-12,
+        1.7887662483486075e-12,
+        1.6753408846132028e-12,
+        1.628027170084752e-12
+      ],
+      "capacitance_variation_checks": [],
+      "electrostatic_energy_second_variation_checks": [],
+      "sign": "positive in this discretized restricted subspace"
+    },
+    {
+      "q": 0.0,
+      "omega": 1.40122308451528,
+      "radius": 80.0,
+      "h": 0.2,
+      "ell": 3,
+      "capacitance": 892.2029261217773,
+      "discrete_charge_number": 1250.1753361539152,
+      "sampled_high_ell_bound": 7.502385097652215,
+      "lowest_eigenvalues": [
+        0.044203007549691316,
+        0.053517637729126336,
+        0.06581793104908645,
+        0.08104196098808422
+      ],
+      "eigenpair_residuals": [
+        8.56300986184489e-14,
+        9.011826685899621e-14,
+        8.177268452821402e-14,
+        9.066982011339932e-14
+      ],
+      "capacitance_variation_checks": [],
+      "electrostatic_energy_second_variation_checks": [],
+      "sign": "positive in this discretized restricted subspace"
+    },
+    {
+      "q": 0.0,
+      "omega": 1.40122308451528,
+      "radius": 80.0,
+      "h": 0.1,
+      "ell": 3,
+      "capacitance": 892.2029261348441,
+      "discrete_charge_number": 1250.175336172225,
+      "sampled_high_ell_bound": 7.507198901475674,
+      "lowest_eigenvalues": [
+        0.04420304565179539,
+        0.053517945209827195,
+        0.06581906552561764,
+        0.08104490822063119
+      ],
+      "eigenpair_residuals": [
+        3.809441912199009e-13,
+        3.625358150854497e-13,
+        3.3319827999845064e-13,
+        3.4777164153358134e-13
+      ],
+      "capacitance_variation_checks": [],
+      "electrostatic_energy_second_variation_checks": [],
+      "sign": "positive in this discretized restricted subspace"
+    },
+    {
+      "q": 0.0,
+      "omega": 1.40122308451528,
+      "radius": 80.0,
+      "h": 0.05,
+      "ell": 3,
+      "capacitance": 892.2029265755305,
+      "discrete_charge_number": 1250.1753367897247,
+      "sampled_high_ell_bound": 7.5078184572962146,
+      "lowest_eigenvalues": [
+        0.04420305517714618,
+        0.05351802208015766,
+        0.06581934914523957,
+        0.08104564503758302
+      ],
+      "eigenpair_residuals": [
+        1.693911132042861e-12,
+        1.781184329956228e-12,
+        1.7774219834621365e-12,
+        1.8317190809511615e-12
+      ],
+      "capacitance_variation_checks": [],
+      "electrostatic_energy_second_variation_checks": [],
+      "sign": "positive in this discretized restricted subspace"
+    },
+    {
+      "q": 0.01,
+      "omega": 1.4026630631464716,
+      "radius": 80.0,
+      "h": 0.2,
+      "ell": 1,
+      "capacitance": 891.2868899466558,
+      "discrete_charge_number": 1250.1751991948684,
+      "sampled_high_ell_bound": 7.4192226257475,
+      "lowest_eigenvalues": [
+        -5.5781231340404854e-05,
+        0.03638921640477744,
+        0.04309178361239003,
+        0.05327975120707359
+      ],
+      "eigenpair_residuals": [
+        7.668064689053941e-14,
+        5.573293984953471e-14,
+        6.683258762000831e-14,
+        7.503488708249576e-14
+      ],
+      "capacitance_variation_checks": [],
+      "electrostatic_energy_second_variation_checks": [],
+      "sign": "negative direction in this discretized restricted subspace"
+    },
+    {
+      "q": 0.01,
+      "omega": 1.4026630631464716,
+      "radius": 80.0,
+      "h": 0.1,
+      "ell": 1,
+      "capacitance": 891.2869632158431,
+      "discrete_charge_number": 1250.175301966851,
+      "sampled_high_ell_bound": 7.422985045270637,
+      "lowest_eigenvalues": [
+        -1.3934281674559415e-05,
+        0.0363893354390449,
+        0.0430925844905037,
+        0.053282175325083087
+      ],
+      "eigenpair_residuals": [
+        3.495012219931288e-13,
+        3.772589108755204e-13,
+        3.950354999155112e-13,
+        4.0998866505359333e-13
+      ],
+      "capacitance_variation_checks": [],
+      "electrostatic_energy_second_variation_checks": [],
+      "sign": "negative direction in this discretized restricted subspace"
+    },
+    {
+      "q": 0.01,
+      "omega": 1.4026630631464716,
+      "radius": 80.0,
+      "h": 0.05,
+      "ell": 1,
+      "capacitance": 891.2869819761047,
+      "discrete_charge_number": 1250.1753282811771,
+      "sampled_high_ell_bound": 7.423991280503951,
+      "lowest_eigenvalues": [
+        -3.484619258906664e-06,
+        0.03638936519497656,
+        0.04309278465967125,
+        0.05328278116512067
+      ],
+      "eigenpair_residuals": [
+        1.9921907247544984e-12,
+        2.6214946438890883e-12,
+        2.6748626578211148e-12,
+        2.5997617750442288e-12
+      ],
+      "capacitance_variation_checks": [],
+      "electrostatic_energy_second_variation_checks": [],
+      "sign": "negative direction in this discretized restricted subspace"
+    },
+    {
+      "q": 0.01,
+      "omega": 1.4026630631464716,
+      "radius": 80.0,
+      "h": 0.2,
+      "ell": 2,
+      "capacitance": 891.2868899466558,
+      "discrete_charge_number": 1250.1751991948684,
+      "sampled_high_ell_bound": 7.4192226257475,
+      "lowest_eigenvalues": [
+        0.0382839496188838,
+        0.0460255736407153,
+        0.05615488389252164,
+        0.06745332841884581
+      ],
+      "eigenpair_residuals": [
+        4.6174608937905834e-14,
+        6.34843904249702e-14,
+        7.309251412596236e-14,
+        7.048069605324061e-14
+      ],
+      "capacitance_variation_checks": [],
+      "electrostatic_energy_second_variation_checks": [],
+      "sign": "positive in this discretized restricted subspace"
+    },
+    {
+      "q": 0.01,
+      "omega": 1.4026630631464716,
+      "radius": 80.0,
+      "h": 0.1,
+      "ell": 2,
+      "capacitance": 891.2869632158431,
+      "discrete_charge_number": 1250.175301966851,
+      "sampled_high_ell_bound": 7.422985045270637,
+      "lowest_eigenvalues": [
+        0.038283977038235696,
+        0.04602583140231725,
+        0.05615607295608282,
+        0.0674574018173163
+      ],
+      "eigenpair_residuals": [
+        3.039655177489763e-13,
+        3.996562722375769e-13,
+        4.1460626501272737e-13,
+        3.9463418956415606e-13
+      ],
+      "capacitance_variation_checks": [],
+      "electrostatic_energy_second_variation_checks": [],
+      "sign": "positive in this discretized restricted subspace"
+    },
+    {
+      "q": 0.01,
+      "omega": 1.4026630631464716,
+      "radius": 80.0,
+      "h": 0.05,
+      "ell": 2,
+      "capacitance": 891.2869819761047,
+      "discrete_charge_number": 1250.1753282811771,
+      "sampled_high_ell_bound": 7.423991280503951,
+      "lowest_eigenvalues": [
+        0.03828398389315633,
+        0.04602589583015833,
+        0.056156370068192164,
+        0.06745841930811836
+      ],
+      "eigenpair_residuals": [
+        2.303670625274237e-12,
+        2.7320263828328163e-12,
+        3.0026934829453783e-12,
+        2.771594101667518e-12
+      ],
+      "capacitance_variation_checks": [],
+      "electrostatic_energy_second_variation_checks": [],
+      "sign": "positive in this discretized restricted subspace"
+    },
+    {
+      "q": 0.01,
+      "omega": 1.4026630631464716,
+      "radius": 80.0,
+      "h": 0.2,
+      "ell": 3,
+      "capacitance": 891.2868899466558,
+      "discrete_charge_number": 1250.1751991948684,
+      "sampled_high_ell_bound": 7.4192226257475,
+      "lowest_eigenvalues": [
+        0.04069294697985475,
+        0.05012743653769895,
+        0.0625155123647196,
+        0.07781220698518798
+      ],
+      "eigenpair_residuals": [
+        5.013443226217165e-14,
+        5.5279599033267566e-14,
+        6.729503559622108e-14,
+        6.817779731059995e-14
+      ],
+      "capacitance_variation_checks": [],
+      "electrostatic_energy_second_variation_checks": [],
+      "sign": "positive in this discretized restricted subspace"
+    },
+    {
+      "q": 0.01,
+      "omega": 1.4026630631464716,
+      "radius": 80.0,
+      "h": 0.1,
+      "ell": 3,
+      "capacitance": 891.2869632158431,
+      "discrete_charge_number": 1250.175301966851,
+      "sampled_high_ell_bound": 7.422985045270637,
+      "lowest_eigenvalues": [
+        0.04069298654356053,
+        0.0501277506170916,
+        0.06251666276435765,
+        0.07781518428390767
+      ],
+      "eigenpair_residuals": [
+        2.58053238403294e-13,
+        3.181459978291837e-13,
+        3.26131690990958e-13,
+        3.471118868213157e-13
+      ],
+      "capacitance_variation_checks": [],
+      "electrostatic_energy_second_variation_checks": [],
+      "sign": "positive in this discretized restricted subspace"
+    },
+    {
+      "q": 0.01,
+      "omega": 1.4026630631464716,
+      "radius": 80.0,
+      "h": 0.05,
+      "ell": 3,
+      "capacitance": 891.2869819761047,
+      "discrete_charge_number": 1250.1753282811771,
+      "sampled_high_ell_bound": 7.423991280503951,
+      "lowest_eigenvalues": [
+        0.04069299643471255,
+        0.05012782913782107,
+        0.06251695036557298,
+        0.07781592861680421
+      ],
+      "eigenpair_residuals": [
+        2.1768565051901775e-12,
+        2.378596246309013e-12,
+        2.4144011118940548e-12,
+        2.6018917919402128e-12
+      ],
+      "capacitance_variation_checks": [],
+      "electrostatic_energy_second_variation_checks": [],
+      "sign": "positive in this discretized restricted subspace"
+    }
+  ]
+}

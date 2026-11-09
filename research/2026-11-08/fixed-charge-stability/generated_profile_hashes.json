@@ -1,0 +1,9 @@
+{
+  "hash_convention": "UTF-8 text with LF newlines",
+  "files": {
+    "profile_q0.csv": "b2132676a4ac3a09e8441273d865dbe8e99f4791ebd33a3ee18c1fd25261c6f9",
+    "profile_q00025.csv": "66c73d6e841baf43b20d8c10beb3cdb383786a49ef258cfcf6d6239ad997bf92",
+    "profile_q001.csv": "3122b2b3156b670bebd2b3dcb70d59173fd9ff0223f9f2a51dfd0d6585ba963f",
+    "profile_q001_replication.csv": "6b16c79605e8bf917d3a676134a4ff3ffcebffeb2a5216e2b3af13a6367283d7"
+  }
+}

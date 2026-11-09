@@ -1,0 +1,13 @@
+{
+  "README.md": "2a4042203fc1b288bc4cf0d1cfc95ec0e9fb71f6dbe8fd09de7907ea4fc48160",
+  "PROTOCOL.md": "d7d9aba74b364d7e145a5725e038eba03d635ed2ecf5394b26ee28e99f4ad529",
+  "RELATIVISTIC_COMPLETION.md": "246404ce9c01d6502012f4be3cf601580d090cd535ecc48b5f5a156ff1079ddf",
+  "check_poincare.py": "b235fe6f487eb69ee8999a4c1927e4da6148db8db65c7ba8bb54df9ccbbc807c",
+  "check_wigner.py": "c4812914413aa22869e32689e4e50f6651992dec560aae8b9f6139e202b82774",
+  "check_dirac_reference.py": "73adb329fae64ada9748cf32d8403a89bcb39617174266fe1eaffde6921be4d6",
+  "poincare_results.json": "f65a491349b87eecce72ea67680fc44aee3df48697026e756d10cd8d209a96d5",
+  "wigner_results.json": "da61aef5ac3603808659675c96c7ceacf09a3c809e6ad5351c68e870d31bc6ee",
+  "dirac_reference_results.json": "ad98486ac511917ab1248e1480228df85c993ed8ad0b55072800ee473c55d0c4",
+  "requirements.txt": "654e12ffc00ba074c98b33d7058eb745eb1817bd2d5506594dfc1b999e106bb9",
+  "source_manifest.json": "03b7ea40cf888c0e8f03dc05b55a1b6af19a3f76734beae94520883aab0687a2"
+}

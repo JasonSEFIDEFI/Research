@@ -1,0 +1,11 @@
+{
+  "CHARGE_CONJUGATION.md": "1a0d1056cdbb24ef367df2d25e30de96ab9ad34ec6161053c5475143cd46b7d2",
+  "charge_conjugation_results.json": "920636086aa2a856f17a48dbac1a31c88b690ffdb5887a8d9da204d47013e154",
+  "check_charge_conjugation.py": "8a8c86c942f96752fef1c979cb35348322012c24348f9b1c5273a1a2efd8c8cf",
+  "check_fixed_charge.py": "264fba7dc6195c7ac4707694a2dbb6a5ee6409b18f2ae3be679a43c997f21b78",
+  "fixed_charge_results.json": "781c30bd89a358304bcc57821684e1cc2a57a2031a8720c3fc8cf927194c1f68",
+  "FIXED_CHARGE_TOPOLOGY.md": "9ce43cd4de3ea65764df2ae7661e70710650f016ccaa4601d18103c5413d1bc1",
+  "README.md": "7ac2aecdb21df278a5be2c6265a954c67125150385855ea1faabd5241efa2e2a",
+  "requirements.txt": "8950b90b63c9be691440e718aa1e2a10cf194466ddce2a1734b5d8eb443447d0",
+  "source_manifest.json": "82373c1e15871922f4e53b91a08478fd466294f74f28bef5b85c02850a7fb3f8"
+}

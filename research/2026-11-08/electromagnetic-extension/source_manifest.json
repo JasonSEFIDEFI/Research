@@ -1,0 +1,21 @@
+{
+  "status": "Exploratory / Not Promoted",
+  "assistance": "AI-assisted derivation, code and prose; no independent review claimed",
+  "seed": {
+    "repository": "JasonSEFIDEFI/SEFI-PY",
+    "commit": "446e6177ec30b840a0fcd336ff72dd96a1c2df4e",
+    "path": "research/2026-10-25/localized-frequency/seed_Q1250.npz",
+    "git_blob_sha": "5b2781d9bd06d5ba662eba2f687163a99944aa2d",
+    "archive_sha256": "2b980dd42eb19258e6ec03658a9f8516517501204800817ca0be6dc90a5d7650",
+    "verification": "GitHub base64 archive matched local archive byte for byte; CSV roundtrip exactly reproduced all array floats"
+  },
+  "ungauged_solver_reference": {
+    "repository": "JasonSEFIDEFI/SEFI-PY",
+    "commit": "18a5275df36d32af1b67d514c0c337637ff2c210",
+    "path": "research/2026-10-25/critical-correction/full_solver.py"
+  },
+  "external_context": [
+    "https://www.damtp.cam.ac.uk/user/tong/qft/qfthtml/S6.html",
+    "https://arxiv.org/abs/2103.06905"
+  ]
+}

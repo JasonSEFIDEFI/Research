@@ -1,0 +1,21 @@
+{
+  "status": "Exploratory / Not Promoted",
+  "hash_convention": "UTF-8 text with LF newlines",
+  "files": {
+    "candidate_checks.py": "a295a08639e27a27af3f0152985ae40795b3063b4723c99fa83dbb86ce44ec04",
+    "candidate_static_results.json": "0714deb374b138d264710e6d9025b2a986bc647fff8200dc7d804770d33c8edd",
+    "check_schur.py": "ba56b68bfadc4186abae5151e683e47c8a7c04be6e4e28e12f9bb8ff27466279",
+    "DYNAMICAL_REDUCTION.md": "6b31951b08d8d7516a4c674f3f63bae75adadd0c290da39904a572e8e13881ec",
+    "OBSERVATIONAL_ASSESSMENT.md": "5939fd52f0025ff466e17aeee7cb15902ac11d0ee30fdf99ceba587562d97cb3",
+    "observational_check.py": "77ac86608609a837abe79b8e068e7644e1527273f74b6b85f38f3ba1117e9205",
+    "observational_check_results.json": "f9f0dc8fc48228a3a31bc49b37e6c89bb13ab201c8bd816743de9d2257d4275d",
+    "PROTOCOL.md": "ceaef2eadcdaf381cdde06248d590abfa88e8a72a96d40e212587f41d62c5964",
+    "radial_dynamics.py": "21155db4d46908fb9264bd46af0c550ce98a257a57daa6ebe3f837436ea5505a",
+    "radial_dynamics_results.json": "73030ab412daab5ce21c1bbe85647badb3e38b7bdd8c74f8ccf0ba6b59b43c7c",
+    "README.md": "1dabcc134bb7796c3e69422dc8ebdc62840af3d7e10463075277dea3bceb4def",
+    "requirements.txt": "3091784e4f8a96fa6a7025eaa2041182f44bdf52bb0d6ef77e89f46404e2387f",
+    "REVIEW_DOSSIER.md": "a949db6ea091a28534b0a914d540e7fcd44aa7973d051f1c6384dbf295ec19ba",
+    "schur_results.json": "04eba6b8bfa7e13faabd358053ec9bcb625b04d5d75664704c6876c8775c3073",
+    "source_manifest.json": "abfebd34896b67a6414beb9f56ff3f6af4d4bafc5bccb220c3d78bd410f77a26"
+  }
+}

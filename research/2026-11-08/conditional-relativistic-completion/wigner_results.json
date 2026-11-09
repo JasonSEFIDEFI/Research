@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-08",
+  "status": "all finite Wigner checks passed",
+  "cases": 18,
+  "seed": 20261108,
+  "masses": [
+    0.3,
+    1.0,
+    5.0
+  ],
+  "errors": {
+    "mass_shell": 5.363367345371891e-16,
+    "spinor_lorentz_map": 3.787205760618819e-16,
+    "wigner_unitarity": 1.5543122344752192e-15,
+    "wigner_determinant": 9.226380847435024e-16,
+    "cocycle": 1.476048876782274e-15,
+    "infinitesimal_spin": 4.4419397064550704e-10
+  },
+  "tolerances": {
+    "algebra": 2e-12,
+    "infinitesimal_spin": 1e-08,
+    "finite_difference_step": 1e-06
+  },
+  "scope": "Finite implementation tests of conventional induced representations, not a particle prediction or a proof from sampling",
+  "versions": {
+    "python": "3.14.7",
+    "numpy": "2.5.2"
+  }
+}

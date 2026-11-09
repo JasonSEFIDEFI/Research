@@ -1,0 +1,8 @@
+{
+  "status": "Exploratory / Not Promoted",
+  "review_kind": "Separate implementation, same AI; no independent reviewer",
+  "sympy": "1.14.0",
+  "dimension": 18,
+  "maximum_absolute_hessian_difference": 8.881784197001252e-16,
+  "passed": true
+}

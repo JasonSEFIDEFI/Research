@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-08",
+  "status": "all exact Dirac-reference and CAR checks passed",
+  "assumptions": [
+    "conventional Clifford matrices",
+    "assigned positive mass",
+    "CAR and normal ordering for the field reference",
+    "two independent electron and antiparticle spin labels in one momentum mode"
+  ],
+  "clifford_and_projector_identities": true,
+  "positive_energy_isometry_and_completeness": true,
+  "charge_conjugation_clifford_identity": true,
+  "finite_CAR_modes": 4,
+  "finite_Fock_dimension": 16,
+  "free_normal_ordered_energy_nonnegative": true,
+  "opposite_charge_equal_energy_reference": true,
+  "two_copy_symmetry_alone_allows_both_exchange_parities": true,
+  "reference_Fock_spectrum_multiplicities": {
+    "0": 1,
+    "1": 4,
+    "2": 6,
+    "3": 4,
+    "4": 1
+  },
+  "full_microcausality_not_tested_by_finite_mode_matrix": true,
+  "scope": "Standard free Dirac reference under imposed quantum/local-field structure; no SEFI matter derivation",
+  "versions": {
+    "python": "3.14.7",
+    "sympy": "1.14.0"
+  }
+}

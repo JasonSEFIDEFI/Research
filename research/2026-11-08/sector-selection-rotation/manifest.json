@@ -1,0 +1,13 @@
+{
+  "README.md": "b008cb84f13ac947e743a0afcf3b78aad1deed363e61fb01db426ac0fe9d4a1a",
+  "PROTOCOL.md": "17df176713eb01a1dcd9b2a2d9c5554e93687ff98895db508ca15cecf20ab8d5",
+  "SECTOR_SELECTION.md": "9d9c7b7692c25261e484b98bb27071c739554e74e63dae131f6097382ceef1d5",
+  "ROTATION_LIFT.md": "c3cdc6eb07daee24a684cd52a7a875b9c0b4949d8e80937396d024e50167c28f",
+  "check_sector_selection.py": "d101ca02f4d17e90b3146b4199693f76bbba4d0c8a5b51cddbb38e0e5ea70481",
+  "check_rotation_lift.py": "6bde5426d4fb9aedc2141e3026b301211047b2d24cb578ad52f0bbf3a916e0de",
+  "sector_selection_results.json": "16efef3a42008a88f3349b18862df7ee81d793d5f573a22ed5237d2fac0070dc",
+  "rotation_lift_results.json": "cff6095d9484d7befbc5c326080e2034fb31b4cae55e2ffcd6b2888e6ab596a9",
+  "basis_convergence.csv": "d70a9bd1e0dacd8687694b9d06acd320aa0ce2d446850c3b8017fbc9cab4d1f8",
+  "requirements.txt": "337b0423144c3e74bdb190a463669f597253185bf78af3d4de479a8a6569b312",
+  "source_manifest.json": "0b512a4791217e5a757b23e9b4829e2868ee51d3c208d47d48c3e7c3b5e17c5c"
+}

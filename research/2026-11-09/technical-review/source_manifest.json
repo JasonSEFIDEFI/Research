@@ -1,0 +1,28 @@
+{
+  "status": "Exploratory / Not Promoted",
+  "review_kind": "AI self-audit, not independent external review",
+  "repository": "JasonSEFIDEFI/Research",
+  "parent_commit": "9e3bdeca7c48ed14922e7aee77f1b75b27945d53",
+  "prior_packages": [
+    "research/2026-11-08/fixed-charge-stability",
+    "research/2026-11-08/steps-6-7-closure"
+  ],
+  "profile_sha256_LF_UTF8": "66c73d6e841baf43b20d8c10beb3cdb383786a49ef258cfcf6d6239ad997bf92",
+  "preceding_download_archive_sha256": "9c6b8a512b0a569659289066ed37d088593dabd955cacea79b92ba6f8015b812",
+  "primary_sources": [
+    "https://doi.org/10.1103/PhysRevD.13.2739",
+    "https://arxiv.org/html/1906.01943v2",
+    "https://arxiv.org/abs/1612.00737v3",
+    "https://arxiv.org/abs/2408.07561v2",
+    "https://physics.nist.gov/cuu/Constants/Table/allascii.txt"
+  ],
+  "runtime": {
+    "python": "3.14.7",
+    "numpy": "2.5.2",
+    "scipy": "1.18.1",
+    "sympy": "1.14.0",
+    "platform": "Windows-11-10.0.26300-SP0",
+    "precision": "float64",
+    "blas_threads_requested": 1
+  }
+}

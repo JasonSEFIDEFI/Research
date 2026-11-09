@@ -1,8 +1,12 @@
+# Electromagnetic coupling checkpoint â€” 8 November 2026
+
+[Scalar-Maxwell extension](research/2026-11-08/electromagnetic-extension/ELECTROMAGNETIC_EXTENSION.md): explicit gauge/current/Gauss derivation and self-consistent fixed-frequency charged profiles at lambda=12. Five nontrivial points through q=.015 pass declared checks; q=.02 converges to vacuum and is rejected, not interpreted as a maximum coupling. Enlarged-domain replication at q=.01 agrees in charge number and energy within 1.5e-8 relative. Photon remains massless at tree level with the condensate neutral. Minimal Dirac coupling is recorded separately; no scalar-to-spinor map, charge magnitude derivation or dynamical stability is claimed. Next: fixed-charge continuation and constrained perturbation analysis. **Exploratory / Not Promoted**, AI-assisted, no promotion or independent review.
+
 # Research status
 
 Updated 24 October 2026. This repository was renamed from PhD to Research at the author's request. Repository history and existing manuscript status are retained.
 
-## Conditional relativistic target — 8 November 2026
+## Conditional relativistic target â€” 8 November 2026
 
 [Derivation, domain statements and checks](research/2026-11-08/conditional-relativistic-completion/README.md)
 construct a conventional free massive spin-half target for step 4. A chosen
@@ -17,7 +21,7 @@ physical spin map or particle mass is derived from SEFI, and the prior
 worldline energy obstruction is not repaired. **Exploratory / Not Promoted.**
 No governing action is replaced. Codex assisted; independent review is pending.
 
-## Sector selection and rotation bridge — 8 November 2026
+## Sector selection and rotation bridge â€” 8 November 2026
 
 [Protocol, variational proof, spectra and rotation algebra](research/2026-11-08/sector-selection-rotation/README.md)
 continue steps 2 and 3. Exact number conservation preserves every N sector;
@@ -32,14 +36,14 @@ is discussed only as an added assumption, not installed as a governing law.
 Exact and numerical checks passed; physical matter has not been derived.
 **Exploratory / Not Promoted.** Codex assisted; independent review is pending.
 
-## Exact nonlinear internal symmetry — 8 November 2026
+## Exact nonlinear internal symmetry â€” 8 November 2026
 
 [Complete coupling calculation and exact checks](research/2026-11-08/full-internal-symmetry/README.md)
 give a necessary-and-sufficient criterion for fixed canonical oscillator SU(2)
 generators and classify six coordinate-aligned pairs. An equal-frequency
-Origin–Authorship pair with constant constitutive couplings is exact for
+Originâ€“Authorship pair with constant constitutive couplings is exact for
 arbitrary geometry and gives a symmetry of the joint variational action.
-A rotated Sovereignty–Warp mode also decouples exactly when both couplings
+A rotated Sovereigntyâ€“Warp mode also decouples exactly when both couplings
 share a functional dependence, their forcing direction is fixed and the
 O/S/W frequencies coincide. This nonlinear candidate extends the preceding
 coordinate-aligned audit. A sine-coupling example has a coercive internal
@@ -51,7 +55,7 @@ remain unresolved. No stability/positive-energy claim is transferred to the
 higher-derivative worldline sector. **Exploratory / Not Promoted.** Codex
 assisted; author verification and independent technical review are pending.
 
-## Identity oscillator and spatial spin audit — 8 November 2026
+## Identity oscillator and spatial spin audit â€” 8 November 2026
 
 [Source audit, derivation and exact checks](research/2026-11-08/identity-spin-audit/README.md)
 separate coordinate-only identity packing from a canonically paired oscillator
@@ -66,7 +70,7 @@ matrix checks through N=6 passed. **Exploratory / Not Promoted.** No electron,
 positron, spin-statistics, electric-charge, novelty or experimental claim. Codex
 assisted; author verification and independent technical review remain pending.
 
-## Charge conjugation and fixed charge topology — 8 November 2026
+## Charge conjugation and fixed charge topology â€” 8 November 2026
 
 [Derivations, checks and source versions](research/2026-11-08/charge-pair-topology/README.md)
 record exact conjugation pairing for the existing canonical scalar action and a
@@ -81,7 +85,7 @@ experimental result is claimed. **Exploratory / Not Promoted.** Codex assisted
 with derivation, checks and drafting; independent technical review is pending.
 Existing research branches and priorities are preserved.
 
-## Computing-resource hypothesis — 4 November 2026
+## Computing-resource hypothesis â€” 4 November 2026
 
 [Initial brief, protocol, code and results](research/2026-11-04/coupled-computing-pilot/README.md)
 test a forced, damped extension of the fixed-geometry DEFI linear oscillator reduction
@@ -92,19 +96,19 @@ Precision/readout sensitivity, missing physical assumptions, contributions and r
 gates are documented. **Exploratory / Not Promoted.** Jason Duran Dutton leads the work;
 Codex assisted with this initial pilot. Prior research priorities and draft branches remain.
 
-## First correction and working manuscript — 25 October 2026
+## First correction and working manuscript â€” 25 October 2026
 
-[Critical-limit correction record](https://github.com/JasonSEFIDEFI/SEFI-PY/blob/18a5275df36d32af1b67d514c0c337637ff2c210/research/2026-10-25/critical-correction/README.md) derives first-order charge coefficients from the reduced stationary equations without fitting full-model charge data. At two declared new couplings, corrected errors against the computed full-model charges are 0.37–1.70 ppm, roughly 1,200–2,400 times smaller than the leading prediction errors. Checks include symbolic expansion, action comparisons, an independent sensitivity equation and domain/tolerance refinements. An explicit conditional maximum-principle bound controls one transverse-amplitude elimination step at prescribed f; it does not establish the full coupled expansion.
+[Critical-limit correction record](https://github.com/JasonSEFIDEFI/SEFI-PY/blob/18a5275df36d32af1b67d514c0c337637ff2c210/research/2026-10-25/critical-correction/README.md) derives first-order charge coefficients from the reduced stationary equations without fitting full-model charge data. At two declared new couplings, corrected errors against the computed full-model charges are 0.37â€“1.70 ppm, roughly 1,200â€“2,400 times smaller than the leading prediction errors. Checks include symbolic expansion, action comparisons, an independent sensitivity equation and domain/tolerance refinements. An explicit conditional maximum-principle bound controls one transverse-amplitude elimination step at prescribed f; it does not establish the full coupled expansion.
 
 The [working manuscript](https://github.com/JasonSEFIDEFI/SEFI-PY/blob/18a5275df36d32af1b67d514c0c337637ff2c210/research/2026-10-25/critical-correction/MANUSCRIPT_DRAFT.md), [derivation](https://github.com/JasonSEFIDEFI/SEFI-PY/blob/18a5275df36d32af1b67d514c0c337637ff2c210/research/2026-10-25/critical-correction/DERIVATION.md), [conditional bound](https://github.com/JasonSEFIDEFI/SEFI-PY/blob/18a5275df36d32af1b67d514c0c337637ff2c210/research/2026-10-25/critical-correction/AMPLITUDE_BOUND.md) and [prior-work comparison](https://github.com/JasonSEFIDEFI/SEFI-PY/blob/18a5275df36d32af1b67d514c0c337637ff2c210/research/2026-10-25/critical-correction/LITERATURE_COMPARISON.md) are versioned at SEFI-PY commit `18a5275df36d32af1b67d514c0c337637ff2c210` in [draft PR #6](https://github.com/JasonSEFIDEFI/SEFI-PY/pull/6). **Exploratory / Not Promoted.** No journal submission, established novelty or uniform coupled-limit theorem is claimed. Author verification, independent technical review, broader novelty assessment and explicit approval before promotion remain required.
 
-## Frequency continuation and critical coupling — 25 October 2026
+## Frequency continuation and critical coupling â€” 25 October 2026
 
 [Stationary-branch and formal critical-limit record](https://github.com/JasonSEFIDEFI/SEFI-PY/blob/446e6177ec30b840a0fcd336ff72dd96a1c2df4e/research/2026-10-25/localized-frequency/README.md) resolves a numerical charge minimum near Q=953.31 at lambda=12, distinct from the free-threshold binding crossing near Q=1225.43. Two Q=1000 stationary profiles have different computed radial constrained-energy character. Coupling continuation reaches lambda=15.9; a formally derived reduced variational problem predicts delta^(-3/2) charge growth, with about 0.41% discrepancy in the scaled minimum at that coupling. A model-specific virial obstruction for the stated stationary class at lambda>=16 is documented with its assumptions.
 
 The package contains all initial and recovery attempts, raw profiles, grid/domain/tolerance comparisons, symbolic checks, a derivation and a [publication-readiness assessment](https://github.com/JasonSEFIDEFI/SEFI-PY/blob/446e6177ec30b840a0fcd336ff72dd96a1c2df4e/research/2026-10-25/localized-frequency/PUBLICATION_READINESS.md). It is pushed at SEFI-PY commit `446e6177ec30b840a0fcd336ff72dd96a1c2df4e` on the existing [draft PR #6](https://github.com/JasonSEFIDEFI/SEFI-PY/pull/6), not merged into main. **Exploratory / Not Promoted**: no general nonlinear stability, proved singular-limit convergence, established novelty or physical-particle claim. Next work is a controlled critical-limit correction and independent technical/literature review. No journal submission or promotion approval is recorded.
 
-## Exploratory numerical update — 25 October 2026
+## Exploratory numerical update â€” 25 October 2026
 
 [Localized vacuum branch continuation and publication assessment](https://github.com/JasonSEFIDEFI/SEFI-PY/blob/d3fa758cb9404ddcfd58d6f2e5bb6c46a6dead19/research/2026-10-25/localized-branch/README.md) extends the lambda=12 two-complex-scalar study across thirteen charges on three grids, compares 26 sampled two-daughter energies, and cross-checks a free-threshold binding crossing near Q=1225.43 with continuum collocation. Stationary localized states above threshold, unresolved low-charge runs and an extended finite-box state are retained separately. The record includes raw profiles, variational checks and a conditional phase-sector derivation.
 
@@ -112,7 +116,7 @@ The package contains all initial and recovery attempts, raw profiles, grid/domai
 
 ## Current research priority
 
-[Research review and priorities](research/2026-10-24/research-priorities/REVIEW.md): concentrate on the existing two-field localized-vacuum branch, derive an effective collective-coordinate/identity correspondence, and then study interactions. Preserve the moving-ring branch and use Lieb–Liniger as a bounded exact correlation benchmark. Application tracks remain separate until they supply their missing constitutive or experimental inputs.
+[Research review and priorities](research/2026-10-24/research-priorities/REVIEW.md): concentrate on the existing two-field localized-vacuum branch, derive an effective collective-coordinate/identity correspondence, and then study interactions. Preserve the moving-ring branch and use Liebâ€“Liniger as a bounded exact correlation benchmark. Application tracks remain separate until they supply their missing constitutive or experimental inputs.
 
 The review follows the author's instruction to follow the mathematics from his models. It ranks the major documented research tracks, identifies the next decisive calculations, and records the limits of its source review.
 
@@ -124,10 +128,11 @@ The folder includes the complete derivation, pinned source manifest, reproducibl
 
 ## Prior checkpoint
 
-[Exact two-body finite-jump correlation transport and finite-N endpoint benchmarks](https://github.com/JasonSEFIDEFI/Research/tree/6e77ff32c13e3a7bf8b7a22b317dd3f708713851/10_DISSERTATION/cyclic_transport_2026_10_24) remains published on the `research/lieb-liniger-response-2026-10-21` branch. It includes bound-state leakage and cutoff errors, and static repulsive Bethe results through N=24. Lieb–Liniger assumes geometry, particles and interaction; it does not derive SEFI ontology.
+[Exact two-body finite-jump correlation transport and finite-N endpoint benchmarks](https://github.com/JasonSEFIDEFI/Research/tree/6e77ff32c13e3a7bf8b7a22b317dd3f708713851/10_DISSERTATION/cyclic_transport_2026_10_24) remains published on the `research/lieb-liniger-response-2026-10-21` branch. It includes bound-state leakage and cutoff errors, and static repulsive Bethe results through N=24. Liebâ€“Liniger assumes geometry, particles and interaction; it does not derive SEFI ontology.
 
 ## Physical interpretation and ongoing work
 
 The inspected SEFI formulations do not yet select a full physical state space, constitutive functions and admissible-state constraints, quantization and normalized observation law with calibrated predictions. These remain research tasks. The energy obstruction informs the worldline/effective-action work; it is not a verdict on every realization or a reason to stop defined field calculations. Mathematical outcomes, including changes of shape, failures and equivalences to existing models, guide the next step.
 
 The research policy is to push completed, checked results, including failures and limitations. Public commits are research records, not claims of peer review, journal acceptance, novelty, or experimental verification.
+

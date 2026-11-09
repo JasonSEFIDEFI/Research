@@ -1,0 +1,13 @@
+{
+  "status": "Exploratory / Not Promoted",
+  "paused_for": "User requested double-slit repository update",
+  "date": "2026-11-09",
+  "files": {
+    "axial_algebra_results.json": "97148c3adf3b435ce3cb8313709cae23c7ee871dc05e96f5551286b2d1a03f53",
+    "check_axial_algebra.py": "df6188b5497078ab740e47d9f7c6cf0be81f8e6406c7501f672128f3f4d96d50",
+    "forced_maxwell.py": "90b7cadf5fdd8477d16136fdd6fdc52e552abf3af38fbc6c2215676addf116d4",
+    "forced_maxwell_results.json": "928b844f795ec09a267f02031883029dbfb84091b4c1c1c1b2cb86d9e4e37c67",
+    "PROTOCOL.md": "4e15a6472b8a57a240107ec21a3b58f3343cf712f1731fa87104e525f90331f5",
+    "RESUME_CHECKPOINT.md": "2b1cf62571ddbf08141cdc2f5bdc5bd5a605fd6b75490b6d94151ab61fd4e35f"
+  }
+}

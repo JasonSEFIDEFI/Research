@@ -1,0 +1,48 @@
+{
+  "status": "Exploratory / Not Promoted",
+  "kind": "Forced Maxwell diagnostic, not a self-consistent scalar solution",
+  "results": [
+    {
+      "h": 0.1,
+      "outer_R": 6.0,
+      "outer_z": 6.0,
+      "grid_points": 3600,
+      "q": 0.2,
+      "omega": 1.4,
+      "n": 1,
+      "charge_number": 7.732883582086866,
+      "electric_charge": 1.5465767164173734,
+      "matter_angular_momentum": 7.707968064457064,
+      "electromagnetic_angular_momentum": 0.024915517629801816,
+      "total_angular_momentum": 7.732883582086866,
+      "relative_J_minus_nN": 0.0,
+      "interior_current_dipole_integral": 0.5550377520671369,
+      "electric_residual": 1.2351231148954867e-14,
+      "magnetic_residual": 4.884981308350689e-15,
+      "minimum_k": 0.9954465701503202,
+      "maximum_k": 0.9999999957145732,
+      "scope": "Prescribed amplitude, finite zero-potential outer boundary. Scalar field equations are NOT solved; no soliton, binding, asymptotic dipole or physical g is claimed."
+    },
+    {
+      "h": 0.05,
+      "outer_R": 6.0,
+      "outer_z": 6.0,
+      "grid_points": 14400,
+      "q": 0.2,
+      "omega": 1.4,
+      "n": 1,
+      "charge_number": 7.732909083703037,
+      "electric_charge": 1.5465818167406074,
+      "matter_angular_momentum": 7.707995241750898,
+      "electromagnetic_angular_momentum": 0.024913841952134475,
+      "total_angular_momentum": 7.732909083703032,
+      "relative_J_minus_nN": 5.742847937860442e-16,
+      "interior_current_dipole_integral": 0.5550386429201841,
+      "electric_residual": 5.941080960525369e-14,
+      "magnetic_residual": 2.7020052861814747e-14,
+      "minimum_k": 0.9954397804579176,
+      "maximum_k": 0.9999999994633066,
+      "scope": "Prescribed amplitude, finite zero-potential outer boundary. Scalar field equations are NOT solved; no soliton, binding, asymptotic dipole or physical g is claimed."
+    }
+  ]
+}

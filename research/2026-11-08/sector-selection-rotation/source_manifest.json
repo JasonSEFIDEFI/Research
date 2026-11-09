@@ -1,0 +1,28 @@
+{
+  "model": {
+    "repository": "JasonSEFIDEFI/Research",
+    "commit": "8c10ff4da342c64502de801f2613ea7245c6c785",
+    "path": "research/2026-11-08/full-internal-symmetry/FULL_INTERNAL_SYMMETRY.md",
+    "example": "section 6; unchanged sine coupling, omega=1, OmegaA^2=4, R^2=13/36"
+  },
+  "prior_identity_audit": {
+    "repository": "JasonSEFIDEFI/Research",
+    "commit": "36db95d27777d9d4a0b009f559dcb7b5ac963957",
+    "path": "research/2026-11-08/identity-spin-audit/IDENTITY_SPIN_AUDIT.md"
+  },
+  "external_references": [
+    {
+      "title": "Matrix Elements for the One-Dimensional Harmonic Oscillator",
+      "authors": "J. L. Lopez-Bonilla and G. Ovando",
+      "year": 2000,
+      "url": "https://www.irishmathsoc.org/bull44/oscillator.pdf"
+    },
+    {
+      "title": "On Unitary Representations of the Inhomogeneous Lorentz Group",
+      "author": "E. Wigner",
+      "year": 1939,
+      "doi": "10.2307/1968551",
+      "url": "https://www.math.toronto.edu/mgualt/courses/25-QM/docs/Wigner-1939.pdf"
+    }
+  ]
+}

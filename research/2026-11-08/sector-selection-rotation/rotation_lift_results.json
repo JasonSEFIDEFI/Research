@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-08",
+  "status": "all exact rotation-comparison checks passed",
+  "assumptions": [
+    "orbital l=1 representation",
+    "chosen internal N=1 doublet",
+    "commuting orbital and internal algebras"
+  ],
+  "homogeneous_generator_mixtures_closing_su2": [
+    "c=0",
+    "c=1"
+  ],
+  "original_spatial_2pi": "identity",
+  "chosen_diagonal_2pi": "minus identity",
+  "diagonal_total_casimir": {
+    "3/4": 2,
+    "15/4": 4
+  },
+  "original_boosts_fail_for_new_rotation_generator": true,
+  "spatial_rotation_assignment_selected_by_action": false,
+  "scope": "Kinematic representation comparison; not a constructed relativistic SEFI theory or electron",
+  "versions": {
+    "python": "3.14.7",
+    "sympy": "1.14.0"
+  }
+}

@@ -2,6 +2,21 @@
 
 Updated 24 October 2026. This repository was renamed from PhD to Research at the author's request. Repository history and existing manuscript status are retained.
 
+## Sector selection and rotation bridge — 8 November 2026
+
+[Protocol, variational proof, spectra and rotation algebra](research/2026-11-08/sector-selection-rotation/README.md)
+continue steps 2 and 3. Exact number conservation preserves every N sector;
+it does not select N=1. In the unchanged nonlinear sine example, a competing
+rest excitation has a rigorously bounded gap below 21301/21380<1, below
+the dark doublet's gap 1. Nested-basis computations estimate 0.9537928882.
+Both original scalar and chosen diagonal rotation generators close their
+rotation algebra, but the original boosts do not satisfy the required
+Lorentz bracket for the diagonal choice. A selection mechanism and physical
+rotation/boost identification remain missing. An explicit level constraint
+is discussed only as an added assumption, not installed as a governing law.
+Exact and numerical checks passed; physical matter has not been derived.
+**Exploratory / Not Promoted.** Codex assisted; independent review is pending.
+
 ## Exact nonlinear internal symmetry — 8 November 2026
 
 [Complete coupling calculation and exact checks](research/2026-11-08/full-internal-symmetry/README.md)

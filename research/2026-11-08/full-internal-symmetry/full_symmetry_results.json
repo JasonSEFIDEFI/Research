@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-08",
+  "status": "all exact symmetry checks passed",
+  "scope": "Fixed oscillator SU(2): six coordinate-aligned cases and one exact nonlinear rotated dark-mode family; not every nonlinear or geometry-dependent symmetry",
+  "assumptions": [
+    "positive constant kinetic weights absorbed by canonical mass normalization",
+    "geometry jets K and T can vary independently for joint-action classification",
+    "selected pair bare frequencies equal reference omega",
+    "constant affine centers for fixed-geometry cases"
+  ],
+  "general_Jz_necessity_checked_for_six_pairs": true,
+  "OA_exact_generator_rates": [
+    "-pO*(K*S*Derivative(f(A), A) + T*W*Derivative(g(A), A))/(2*omega)",
+    "-O*(K*S*Derivative(f(A), A) + T*W*Derivative(g(A), A))/2",
+    "pA*(K*S*Derivative(f(A), A) + T*W*Derivative(g(A), A))/(2*omega)"
+  ],
+  "arbitrary_geometry_sufficient_case_checks": {
+    "OA": [
+      "0",
+      "0",
+      "0"
+    ],
+    "OS": [
+      "0",
+      "0",
+      "0"
+    ],
+    "OW": [
+      "0",
+      "0",
+      "0"
+    ],
+    "AS": [
+      "0",
+      "0",
+      "0"
+    ],
+    "AW": [
+      "0",
+      "0",
+      "0"
+    ],
+    "SW": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  "fixed_geometry_shifted_case_checks": {
+    "OA": [
+      "0",
+      "0",
+      "0"
+    ],
+    "OS": [
+      "0",
+      "0",
+      "0"
+    ],
+    "OW": [
+      "0",
+      "0",
+      "0"
+    ],
+    "AS": [
+      "0",
+      "0",
+      "0"
+    ],
+    "AW": [
+      "0",
+      "0",
+      "0"
+    ],
+    "SW": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  "moving_equilibrium_generator_rates": [
+    "K_dot*O*c1/(2*omega)",
+    "-K_dot*c1*pO/(2*omega**2)",
+    "-K_dot*c1*(K*c1 + S*omega**2)/(2*omega**3)"
+  ],
+  "nonconstant_authorship_counterexamples": {
+    "linear": [
+      "-K*S*pO/(2*omega)",
+      "-K*O*S/2",
+      "K*S*pA/(2*omega)"
+    ],
+    "quadratic": [
+      "-A*K*S*pO/omega",
+      "-A*K*O*S",
+      "A*K*S*pA/omega"
+    ]
+  },
+  "nonlinear_dark_mode": {
+    "assumptions": [
+      "OmegaO=OmegaS=OmegaW",
+      "fixed coupling direction (u,v) nonzero",
+      "common arbitrary smooth F(A)"
+    ],
+    "transformed_Hamiltonian": "A**2*OmegaA_squared/2 + B*sqrt(u**2 + v**2)*F(A) + omega**2*(B**2 + D**2 + O**2)/2 + pA**2/2 + pB**2/2 + pD**2/2 + pO**2/2",
+    "generator_rates": [
+      "0",
+      "0",
+      "0"
+    ],
+    "oscillator_number_conserved": true,
+    "square_completion_verified": true,
+    "bounded_sine_example_positive_hessian": true,
+    "example_hessian": "Matrix([[1, 0, 0, 0], [0, 4, sqrt(13)/6, 0], [0, sqrt(13)/6, 1, 0], [0, 0, 0, 1]])",
+    "moving_frame_generator_rates": [
+      "-theta_dot*(B*O*omega**2 + pB*pO)/(2*omega)",
+      "theta_dot*(B*pO - O*pB)/2",
+      "theta_dot*(B*D*omega**2 + pB*pD)/(2*omega)"
+    ],
+    "general_independent_geometry_motion_not_classified": true
+  },
+  "spatial_spin_or_electron_identification": false,
+  "versions": {
+    "python": "3.14.7",
+    "sympy": "1.14.0"
+  }
+}

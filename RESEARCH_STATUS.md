@@ -2,6 +2,25 @@
 
 Updated 24 October 2026. This repository was renamed from PhD to Research at the author's request. Repository history and existing manuscript status are retained.
 
+## Exact nonlinear internal symmetry — 8 November 2026
+
+[Complete coupling calculation and exact checks](research/2026-11-08/full-internal-symmetry/README.md)
+give a necessary-and-sufficient criterion for fixed canonical oscillator SU(2)
+generators and classify six coordinate-aligned pairs. An equal-frequency
+Origin–Authorship pair with constant constitutive couplings is exact for
+arbitrary geometry and gives a symmetry of the joint variational action.
+A rotated Sovereignty–Warp mode also decouples exactly when both couplings
+share a functional dependence, their forcing direction is fixed and the
+O/S/W frequencies coincide. This nonlinear candidate extends the preceding
+coordinate-aligned audit. A sine-coupling example has a coercive internal
+potential and stable internal equilibrium on fixed geometry. A changing
+forcing direction breaks the fixed dark-mode generators. All exact checks
+passed. These are internal symmetries, not physical spatial spin; N=1
+selection, relativistic quantization, statistics and electromagnetic coupling
+remain unresolved. No stability/positive-energy claim is transferred to the
+higher-derivative worldline sector. **Exploratory / Not Promoted.** Codex
+assisted; author verification and independent technical review are pending.
+
 ## Identity oscillator and spatial spin audit — 8 November 2026
 
 [Source audit, derivation and exact checks](research/2026-11-08/identity-spin-audit/README.md)

@@ -1,0 +1,27 @@
+{
+  "prior_checkpoint": {
+    "repository": "JasonSEFIDEFI/Research",
+    "commit": "59c1b3a5a6ccfa1fd11f131362690b84267efad8",
+    "path": "research/2026-11-08/sector-selection-rotation/ROTATION_LIFT.md"
+  },
+  "reference_sources": [
+    {
+      "authors": "W. N. Polyzou, W. Gloeckle, H. Witala",
+      "title": "Spin in relativistic quantum theory",
+      "url": "https://homepage.physics.uiowa.edu/~wpolyzou/papers/arx_general_ext_20.pdf",
+      "relevant_equations": [
+        "229",
+        "230"
+      ],
+      "role": "canonical spin and boost generators; conventional reference, not SEFI input derivation"
+    },
+    {
+      "author": "E. Wigner",
+      "title": "On Unitary Representations of the Inhomogeneous Lorentz Group",
+      "year": 1939,
+      "doi": "10.2307/1968551",
+      "url": "https://www.math.toronto.edu/mgualt/courses/25-QM/docs/Wigner-1939.pdf",
+      "role": "unitary induced representation framework"
+    }
+  ]
+}

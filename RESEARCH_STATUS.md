@@ -2,6 +2,21 @@
 
 Updated 24 October 2026. This repository was renamed from PhD to Research at the author's request. Repository history and existing manuscript status are retained.
 
+## Conditional relativistic target — 8 November 2026
+
+[Derivation, domain statements and checks](research/2026-11-08/conditional-relativistic-completion/README.md)
+construct a conventional free massive spin-half target for step 4. A chosen
+doublet, positive mass and free dispersion are inputs. The regular canonical
+boost spin term is -(S cross p)/(E+m); all 45 independent Poincare
+commutators, mass and spin Casimirs passed exact checks. An induced finite
+unitary construction and independent boost/composition tests are included.
+A conventional local Dirac reference supplies positive Fock energy and causal
+anticommutators under explicit CAR/local-field assumptions; one-particle
+symmetry alone does not select exchange statistics. No sector selection,
+physical spin map or particle mass is derived from SEFI, and the prior
+worldline energy obstruction is not repaired. **Exploratory / Not Promoted.**
+No governing action is replaced. Codex assisted; independent review is pending.
+
 ## Sector selection and rotation bridge — 8 November 2026
 
 [Protocol, variational proof, spectra and rotation algebra](research/2026-11-08/sector-selection-rotation/README.md)

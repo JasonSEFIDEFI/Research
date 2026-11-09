@@ -2,6 +2,21 @@
 
 Updated 24 October 2026. This repository was renamed from PhD to Research at the author's request. Repository history and existing manuscript status are retained.
 
+## Identity oscillator and spatial spin audit — 8 November 2026
+
+[Source audit, derivation and exact checks](research/2026-11-08/identity-spin-audit/README.md)
+separate coordinate-only identity packing from a canonically paired oscillator
+construction. A degenerate pair admits the conventional Schwinger SU(2) algebra;
+its N=1 sector is an internal doublet only after adding canonical quantization.
+The foundations Hessian gives an exact degeneracy test: both nonzero ASW
+offdiagonal couplings imply a simple ASW spectrum. Origin pairing requires a
+specific frequency relation. No protected nonlinear symmetry or identification
+with physical spatial rotations is derived. The revised GWFM's existing
+spin-equivariance obstruction is explicitly retained. All symbolic and fixed-N
+matrix checks through N=6 passed. **Exploratory / Not Promoted.** No electron,
+positron, spin-statistics, electric-charge, novelty or experimental claim. Codex
+assisted; author verification and independent technical review remain pending.
+
 ## Charge conjugation and fixed charge topology — 8 November 2026
 
 [Derivations, checks and source versions](research/2026-11-08/charge-pair-topology/README.md)

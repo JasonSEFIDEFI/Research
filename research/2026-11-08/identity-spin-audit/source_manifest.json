@@ -1,0 +1,42 @@
+[
+  {
+    "repository": "JasonSEFIDEFI/SEFI-Manuscripts",
+    "commit": "6311562792bf9bd16ec278a669b4afe64ffedbc4",
+    "path": "research-updates/2026-10-18/theory-foundations/foundations.tex",
+    "git_blob_sha": "d56be35e33eb0baa8cb66e2b0dcb2e8fc188cd6c",
+    "retrieved_text_sha256": "6ec6772ad1cf11029d4220862c78dbbafb43de040d5ab94a50f295da65ee9494",
+    "url": "https://github.com/JasonSEFIDEFI/SEFI-Manuscripts/blob/6311562792bf9bd16ec278a669b4afe64ffedbc4/research-updates/2026-10-18/theory-foundations/foundations.tex"
+  },
+  {
+    "repository": "JasonSEFIDEFI/SEFI-Manuscripts",
+    "commit": "6311562792bf9bd16ec278a669b4afe64ffedbc4",
+    "path": "sefi-space/sefi-space.tex",
+    "git_blob_sha": "4bd5981697e88be464fa83b08c01d91a1ac455be",
+    "retrieved_text_sha256": "5f088396bbeec5fec49af419e7da01cc92d7d3dd8173e08b02c2b72a1cc0d7b3",
+    "url": "https://github.com/JasonSEFIDEFI/SEFI-Manuscripts/blob/6311562792bf9bd16ec278a669b4afe64ffedbc4/sefi-space/sefi-space.tex"
+  },
+  {
+    "repository": "JasonSEFIDEFI/SEFI-Manuscripts",
+    "commit": "6311562792bf9bd16ec278a669b4afe64ffedbc4",
+    "path": "research-updates/2026-11-04/word-manuscripts/GWFM-revised-October29.tex",
+    "git_blob_sha": "03ff5bd96258eb4776b39cfee000e0ae5d9db31b",
+    "retrieved_text_sha256": "15654122d3cca995235b08758ee82e76b1c67e72ffd69bf21350245d24183515",
+    "url": "https://github.com/JasonSEFIDEFI/SEFI-Manuscripts/blob/6311562792bf9bd16ec278a669b4afe64ffedbc4/research-updates/2026-11-04/word-manuscripts/GWFM-revised-October29.tex"
+  },
+  {
+    "repository": "JasonSEFIDEFI/SEFI-Manuscripts",
+    "commit": "6311562792bf9bd16ec278a669b4afe64ffedbc4",
+    "path": "research-updates/2026-10-20/defining-sefi/unifiying.tex",
+    "git_blob_sha": "745d9b2f5ff7461dd0a710279ea08f6ae96b1e23",
+    "retrieved_text_sha256": "b5456f5ddeb4ab7a7c1a9d6a66286508f037a345c5f4110288a601799df3bb1b",
+    "url": "https://github.com/JasonSEFIDEFI/SEFI-Manuscripts/blob/6311562792bf9bd16ec278a669b4afe64ffedbc4/research-updates/2026-10-20/defining-sefi/unifiying.tex"
+  },
+  {
+    "repository": "JasonSEFIDEFI/SEFI-Manuscripts",
+    "commit": "6311562792bf9bd16ec278a669b4afe64ffedbc4",
+    "path": "research-updates/2026-11-04/word-manuscripts/DEFI.tex",
+    "git_blob_sha": "c09f4fd6406e377169b46b0b320f0a97ca95036d",
+    "retrieved_text_sha256": "ae6bb8bbbb55e4dd320f6a96ceb8a3784384b95d93adb7fca352063598bc4986",
+    "url": "https://github.com/JasonSEFIDEFI/SEFI-Manuscripts/blob/6311562792bf9bd16ec278a669b4afe64ffedbc4/research-updates/2026-11-04/word-manuscripts/DEFI.tex"
+  }
+]

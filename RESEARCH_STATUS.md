@@ -1,3 +1,9 @@
+# Step 8 technical audit and corrective calculation — 9 November 2026
+
+[Technical review](research/2026-11-09/technical-review/TECHNICAL_REVIEW.md) identifies and corrects a substantive numerical issue: the interpolated BVP profile was not stationary on the Hamiltonian grid. A new variational-grid fixed-charge Newton solve reduces gauge/charge defects to 1.81e-13 or less while retaining positive constrained radial energy and no computed growing mode (maximum absolute real part below 2.62e-14). A separately differentiated canonical Hamiltonian matches the assembled Hessian to 8.89e-16. The prior archive manifests and isolated-directory observable reproduction pass on the same runtime.
+
+[Objection register](research/2026-11-09/technical-review/OBJECTIONS.md) and [independent reviewer brief](research/2026-11-09/technical-review/REVIEWER_BRIEF.md) distinguish closed internal checks from open obligations. **The declared technical self-audit passes; independent step 8 review is not complete or passed.** No independent reviewer participated. Nonlinear continuum 3D stability, fragmentation, novelty assessment and the physical spin/current bridge remain open; direct classical electron identification remains failed. This is **Exploratory / Not Promoted** and does not support a matter-derivation claim. Corrected same-grid radial results supersede the earlier interpolated-background evidence for that bounded numerical claim; historical files remain intact.
+
 # Steps 6–7 closure audit and step 8 review readiness — 8 November 2026
 
 [Review dossier](research/2026-11-08/steps-6-7-closure/REVIEW_DOSSIER.md): the same bound q=.0025 candidate now has explicit charged Cartesian radial phase/amplitude dynamics with Coulomb Gauss elimination and symplectic charge/gauge reduction. Complete 892- and 1792-dimensional finite-grid spectra have no growing mode above 1e-6; maximum absolute real part is below 1.8e-14. The constrained energy remains positive in the larger 4792-dimensional test. Candidate-specific angular and observable convergence checks are included, plus an independent Coulomb/static Schur identity check.
@@ -147,6 +153,7 @@ The folder includes the complete derivation, pinned source manifest, reproducibl
 The inspected SEFI formulations do not yet select a full physical state space, constitutive functions and admissible-state constraints, quantization and normalized observation law with calibrated predictions. These remain research tasks. The energy obstruction informs the worldline/effective-action work; it is not a verdict on every realization or a reason to stop defined field calculations. Mathematical outcomes, including changes of shape, failures and equivalences to existing models, guide the next step.
 
 The research policy is to push completed, checked results, including failures and limitations. Public commits are research records, not claims of peer review, journal acceptance, novelty, or experimental verification.
+
 
 
 

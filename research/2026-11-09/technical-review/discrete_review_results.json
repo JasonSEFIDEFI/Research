@@ -1,0 +1,131 @@
+{
+  "status": "Exploratory / Not Promoted",
+  "review_kind": "AI self-audit with a separately solved variational-grid background",
+  "q": 0.0025,
+  "results": [
+    {
+      "radius": 60.0,
+      "h": 0.4,
+      "omega": 1.4012776130372813,
+      "energy": 1767.716705794825,
+      "charge_number": 1250.1753361265248,
+      "charge_relative_error": 0.0,
+      "charge_rms_radius": 7.201905742556124,
+      "newton_residual_history": [
+        0.0017394022194723857,
+        1.7546165538784297e-05,
+        4.5340781129610264e-10,
+        2.37989349158132e-14
+      ],
+      "stationary_maximum_residual": 2.37989349158132e-14,
+      "physical_dimension": 892,
+      "energy_symmetry_error": 8.470329472543003e-21,
+      "gauge_mode_defect": 8.036649322614226e-16,
+      "unreduced_linear_charge_conservation_defect": 8.036649322614226e-16,
+      "reduced_energy_eigenvalues": [
+        0.013161042244197523,
+        0.013458232890520654,
+        0.016442625482572117,
+        0.01709395251009476
+      ],
+      "eigenpair_residuals": [
+        1.9093399577534766e-14,
+        1.700991399917066e-14,
+        1.913438817538432e-14,
+        1.9671172205105946e-14
+      ],
+      "maximum_absolute_real_part": 4.829470157119431e-15,
+      "positive_growth_count": 0,
+      "smallest_frequency": 0.014166662340726817,
+      "spectrum_file": "review_spectrum_R60_h0.4.csv",
+      "spectrum_sha256_LF_UTF8": "dee0562c28e45df132969749ce24423cf591e2ad015254869ccc490ad6569e1f",
+      "reduced_symplectic_square_error": 1.9984014443252818e-15,
+      "first_interior_f": 0.9403005450514237,
+      "first_interior_s": 0.09083238290879808,
+      "radial_nodes": 0,
+      "gauss_flux": 3.1254383403163097,
+      "gauss_relative_error": 7.104430826895121e-16,
+      "binding_margin": 0.29820989964923683
+    },
+    {
+      "radius": 60.0,
+      "h": 0.2,
+      "omega": 1.4013041776837247,
+      "energy": 1767.7434664167845,
+      "charge_number": 1250.1753361268463,
+      "charge_relative_error": 2.5716902884428034e-13,
+      "charge_rms_radius": 7.209333029991335,
+      "newton_residual_history": [
+        0.0033504701088865707,
+        1.0999884883511335e-06,
+        1.800476434610232e-12
+      ],
+      "stationary_maximum_residual": 1.800476434610232e-12,
+      "physical_dimension": 1792,
+      "energy_symmetry_error": 9.740878893424454e-21,
+      "gauge_mode_defect": 1.8037411903384843e-13,
+      "unreduced_linear_charge_conservation_defect": 1.8037411903384843e-13,
+      "reduced_energy_eigenvalues": [
+        0.013132740495148641,
+        0.013433778803516035,
+        0.016412616722131998,
+        0.017071446585762463
+      ],
+      "eigenpair_residuals": [
+        8.440116500387147e-14,
+        7.70214506658582e-14,
+        7.628676662981903e-14,
+        8.454891654321689e-14
+      ],
+      "maximum_absolute_real_part": 2.609024107869118e-14,
+      "positive_growth_count": 0,
+      "smallest_frequency": 0.014139028751699128,
+      "spectrum_file": "review_spectrum_R60_h0.2.csv",
+      "spectrum_sha256_LF_UTF8": "2c03cb89916fd1d8b4850fb067ff23b7903cdbede6aae22392ebf0ea7a874222",
+      "reduced_symplectic_square_error": 2.3314683517128287e-15,
+      "first_interior_f": 0.940956180401322,
+      "first_interior_s": 0.09014937589696981,
+      "radial_nodes": 0,
+      "gauss_flux": 3.125438340316315,
+      "gauss_relative_error": 2.5618577561777217e-13,
+      "binding_margin": 0.2714492781444733
+    },
+    {
+      "radius": 80.0,
+      "h": 0.1,
+      "omega": 1.4013108199855335,
+      "energy": 1767.7501381946688,
+      "charge_number": 1250.175336126526,
+      "charge_relative_error": 9.093671458425754e-16,
+      "charge_rms_radius": 7.211193753915457,
+      "newton_residual_history": [
+        0.000295960851884722,
+        6.855450479514857e-08,
+        1.4863717895385875e-13
+      ],
+      "stationary_maximum_residual": 1.4863717895385875e-13,
+      "physical_dimension": 4792,
+      "energy_symmetry_error": 8.046812998915853e-21,
+      "gauge_mode_defect": 1.6481368503121822e-14,
+      "unreduced_linear_charge_conservation_defect": 1.6481368503121822e-14,
+      "reduced_energy_eigenvalues": [
+        0.01268901368843964,
+        0.012821746724293695,
+        0.014381875331094059,
+        0.014743302509431415
+      ],
+      "eigenpair_residuals": [
+        2.5800655449468377e-13,
+        4.291353027260094e-13,
+        3.080580789411936e-13,
+        4.226495649116388e-13
+      ],
+      "first_interior_f": 0.9411205859130282,
+      "first_interior_s": 0.08997790644090115,
+      "radial_nodes": 0,
+      "gauss_flux": 3.125438340316325,
+      "gauss_relative_error": 3.12594956383385e-15,
+      "binding_margin": 0.2647774998069963
+    }
+  ]
+}

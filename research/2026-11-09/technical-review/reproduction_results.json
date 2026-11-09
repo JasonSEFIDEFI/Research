@@ -1,0 +1,28 @@
+{
+  "status": "Exploratory / Not Promoted",
+  "kind": "Same-agent isolated-directory rerun from saved archive; not external replication",
+  "archive_sha256": "9c6b8a512b0a569659289066ed37d088593dabd955cacea79b92ba6f8015b812",
+  "manifests": [
+    {
+      "folder": "fixed-charge-stability",
+      "checked": 18,
+      "passed": true
+    },
+    {
+      "folder": "steps-6-7-closure",
+      "checked": 15,
+      "passed": true
+    }
+  ],
+  "rerun_scripts": [
+    "check_schur.py",
+    "observational_check.py"
+  ],
+  "mass_calibration_absolute_differences": {
+    "scale_MeV": 0.0,
+    "radius_m": 0.0,
+    "absolute_charge_over_elementary_charge": 0.0,
+    "energy_radius": 0.0
+  },
+  "passed": true
+}

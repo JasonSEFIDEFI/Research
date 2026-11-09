@@ -1,0 +1,15 @@
+{
+  "review_kind": "AI self-audit",
+  "manifests": [
+    {
+      "folder": "fixed-charge-stability",
+      "checked": 18,
+      "passed": true
+    },
+    {
+      "folder": "steps-6-7-closure",
+      "checked": 15,
+      "passed": true
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "status": "Exploratory / Not Promoted",
+  "hash_convention": "UTF-8 text with LF newlines",
+  "files": {
+    "discrete_review.py": "d796d7eb99457321ae417c8f045bba842732e0cfc2e5839bcfe0a314584382fb",
+    "discrete_review_results.json": "93168a801a1b820714c23fb779d8703d498557682a8b59bf54136f5326a8d1e6",
+    "independent_hessian.py": "f4e75b6a91530612f5c6aaaf031d57b528d31d916651c77bab42e70c31a3689d",
+    "independent_hessian_results.json": "816744e0e74f2fdbcbbd301063b3df8b84197ef7d73ace27356fb93c2738643c",
+    "OBJECTIONS.md": "991143aca80a11ab100d9541d11e95ac403aaac204df1e03a66e168a2e00870a",
+    "packet_integrity_results.json": "895f96867700f4fffc93e41c04bacd7ffa7629e9565f2226e112e242f95dba51",
+    "PROTOCOL.md": "383678c06cdcb3d08459ad025987892e32778fe2108d7a6ef2b7804263547c77",
+    "README.md": "bb8438205784fd73c015e2f880cd978c5907020fc6e85a39e3c1b7b3705303ed",
+    "reproduce_archive.py": "60f7aeb642a98084639b23096472e37b69fe8e387f065f034881ad2bfc040229",
+    "reproduction_results.json": "f3fdba682a47d0e40041f8fe944c045e4bd6064bf95139f3b8a3b1ddb2230cd8",
+    "requirements.txt": "7b2d0bb59a81989f4efa5cf19e5499c140190970a4f1dfeed44c9823d0599367",
+    "review_decision.json": "b4dc029de46b189e2e508089f449393d179c773c6cd05886f26291e70ad2c291",
+    "REVIEWER_BRIEF.md": "c996a9103792830f176416dc63f154dcd2b9d618b65dae554a34723a31e28958",
+    "source_manifest.json": "26b96d49ac89fc711a7df57a41a5e467af0d0a4c2a55d4fa546a52aa5da12f0f",
+    "TECHNICAL_REVIEW.md": "824d0d6535c062002f3b5dbf2e4194ddc8e2ed7ca0ea08008748514f8087948e"
+  }
+}

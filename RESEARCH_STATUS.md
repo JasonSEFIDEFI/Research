@@ -1,3 +1,9 @@
+# Fixed-charge stability assessment and conditional observables — 8 November 2026
+
+[Step 6 assessment](research/2026-11-08/fixed-charge-stability/FIXED_CHARGE_STABILITY.md): fixed N=1250.175336 continuation accepts six profiles through q=.02; q=.03 is rejected. The branch crosses the free-scalar energy threshold near q=.00601012. Restricted radial/angular real-amplitude Hessians at q=0 and .01 show positive sampled sectors aside from translation shifts tending to zero under refinement. This is static numerical evidence, not full dynamical stability: **step 6 remains unestablished** at that level.
+
+[Step 7 conditional observables](research/2026-11-08/fixed-charge-stability/CONDITIONAL_OBSERVABLES.md): a bound q=.0025 profile has charge RMS radius 7.21181331 and energy-radius product 12748.7000 in canonical natural units. Classical angular momentum and magnetic dipole are zero; no scalar-to-spinor map or calibrated electron prediction is derived. **Exploratory / Not Promoted**, AI-assisted. Static assessment completed; constrained time evolution and physical interpretation remain open.
+
 # Electromagnetic coupling checkpoint â€” 8 November 2026
 
 [Scalar-Maxwell extension](research/2026-11-08/electromagnetic-extension/ELECTROMAGNETIC_EXTENSION.md): explicit gauge/current/Gauss derivation and self-consistent fixed-frequency charged profiles at lambda=12. Five nontrivial points through q=.015 pass declared checks; q=.02 converges to vacuum and is rejected, not interpreted as a maximum coupling. Enlarged-domain replication at q=.01 agrees in charge number and energy within 1.5e-8 relative. Photon remains massless at tree level with the condensate neutral. Minimal Dirac coupling is recorded separately; no scalar-to-spinor map, charge magnitude derivation or dynamical stability is claimed. Next: fixed-charge continuation and constrained perturbation analysis. **Exploratory / Not Promoted**, AI-assisted, no promotion or independent review.
@@ -135,4 +141,5 @@ The folder includes the complete derivation, pinned source manifest, reproducibl
 The inspected SEFI formulations do not yet select a full physical state space, constitutive functions and admissible-state constraints, quantization and normalized observation law with calibrated predictions. These remain research tasks. The energy obstruction informs the worldline/effective-action work; it is not a verdict on every realization or a reason to stop defined field calculations. Mathematical outcomes, including changes of shape, failures and equivalences to existing models, guide the next step.
 
 The research policy is to push completed, checked results, including failures and limitations. Public commits are research records, not claims of peer review, journal acceptance, novelty, or experimental verification.
+
 

@@ -1,0 +1,77 @@
+{
+  "status": "Exploratory / Not Promoted",
+  "scope": "Step 7 conditional observables of a bound classical scalar-Maxwell background; full dynamical stability pending",
+  "background": {
+    "q": 0.0025,
+    "target_number": 1250.1753361265248,
+    "omega": 1.4013130340515163,
+    "radius": 160.0,
+    "tolerance": 2e-08,
+    "status": 0,
+    "message": "The algorithm converged to the desired accuracy.",
+    "nodes": 1647,
+    "max_rms_residual": 1.9897103360293106e-08,
+    "boundary_residual": 7.749583381024732e-41,
+    "central_f": 0.9411754335473079,
+    "central_s": 0.08992068400744814,
+    "central_a": 0.050437509043916404,
+    "central_frequency": 1.4011869402789066,
+    "radial_nodes": 0,
+    "charge_number": 1250.1753361289425,
+    "electric_charge": 3.1254383403223565,
+    "gauss_flux": 3.1254383404433375,
+    "charge_relative_error": 1.933860172348821e-12,
+    "gauss_relative_error": 3.870849136026321e-11,
+    "energy": 1767.7523605158544,
+    "energy_per_number": 1.4140035476859938,
+    "binding_margin": 0.26255518203902284,
+    "gradient_energy": 23.853064320185148,
+    "time_energy": 875.8884830794765,
+    "potential_energy": 867.9557995120581,
+    "electric_energy": 0.05501360413466633,
+    "gauss_energy_identity_relative": 1.286230359646536e-16,
+    "accepted": true
+  },
+  "charge_rms_radius": 7.2118133096591315,
+  "charge_fourth_moment": 5929.992849041507,
+  "energy_times_charge_rms_radius": 12748.700001749587,
+  "form_factors": [
+    {
+      "wavenumber": 0.0,
+      "normalized_charge_form_factor": 1.0
+    },
+    {
+      "wavenumber": 0.01,
+      "normalized_charge_form_factor": 0.9991336563840298
+    },
+    {
+      "wavenumber": 0.025,
+      "normalized_charge_form_factor": 0.9946015051219975
+    },
+    {
+      "wavenumber": 0.05,
+      "normalized_charge_form_factor": 0.9786338774622617
+    },
+    {
+      "wavenumber": 0.1,
+      "normalized_charge_form_factor": 0.9180094163002526
+    },
+    {
+      "wavenumber": 0.2,
+      "normalized_charge_form_factor": 0.7185409134845775
+    },
+    {
+      "wavenumber": 0.5,
+      "normalized_charge_form_factor": 0.1626820350308753
+    },
+    {
+      "wavenumber": 1.0,
+      "normalized_charge_form_factor": -0.005154546303241346
+    }
+  ],
+  "small_k_slope_radius_squared": 52.01024844136981,
+  "radius_slope_relative_error": 5.329731587516006e-08,
+  "classical_angular_momentum": 0.0,
+  "magnetic_dipole_moment": 0.0,
+  "limitation": "No physical mass or length calibration, spin-half identification or measured comparison is derived."
+}

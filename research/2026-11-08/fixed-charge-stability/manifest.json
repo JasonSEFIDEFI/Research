@@ -1,0 +1,24 @@
+{
+  "status": "Exploratory / Not Promoted",
+  "hash_convention": "UTF-8 text with LF newlines",
+  "files": {
+    "angular_hessian.py": "9e257f85c20d685ebfa33d1fa71b939646c92275a6cb9791944b5abf9247fb8d",
+    "angular_hessian_results.json": "b98432ba9690ea8baa940bbbadb9ac13edeb6f2bf26fe17d156262b17a75d8b3",
+    "CONDITIONAL_OBSERVABLES.md": "0af6b91efaecedda1203b9deae5dad98e7a4d63a54e8f1805f961cf061f6c068",
+    "conditional_observables.py": "0df7478c927fc0c0dfcc91c88262b1e66af5c39ceb97075a7c921abd0d5846a0",
+    "conditional_observables_results.json": "a7ee0c0d03551af55f1c43ee1e1d37de778fa5beadd14ba990f0a56ce9dbb278",
+    "fixed_charge.py": "5996816776376db927be261ff3763104681988a9bb6c37b7b01d7100d1603199",
+    "fixed_charge_results.json": "9bfbf5e8008bbc6b03799bb70e320b8bf229c96b9f4dba12943acc236e1a9667",
+    "FIXED_CHARGE_STABILITY.md": "10a87db0f0cc2ab0b7d3240acbe3ce6b896c4ce52e9fcc2d19f1a8c188020fcf",
+    "generated_profile_hashes.json": "3e98845764a56414280f8013a9af1ec7901b4372f8ba8bb289052d3452cbebfe",
+    "PROTOCOL.md": "8db6eb0db99f5325562a350187b921ab42b2c972c19b45ff33128f84d2161a4f",
+    "radial_hessian.py": "e220041e5669e686aaa3c767a5c344de1d63797c5937efb1df275c2ee90a0d06",
+    "radial_hessian_results.json": "f690f64029bf2e25de353d88f3810fe8c8291175f04880c91310660e251f365d",
+    "README.md": "2c628335a2c6ecb1feb11309beb3a436e99830463d0c1bc8ef638171610663ed",
+    "requirements.txt": "3091784e4f8a96fa6a7025eaa2041182f44bdf52bb0d6ef77e89f46404e2387f",
+    "seed_profile.csv": "6046af62b0c0e5ffcaa6a26e418f4b08d4e6866a90b446771a670cfc7fd1a50c",
+    "source_manifest.json": "ffd3742a19f2c4ef24ea691886058eb1ffaab9de6ee176e3ce0cd840aad37006",
+    "threshold.py": "e31817c318e089fad7285880cd4fa1a8bd4c9ab002b5671f8aeefde3947dae81",
+    "threshold_results.json": "6cb3934e4f84e9c5db6ae99561400a39ca6ecacbff6148881b177d63d4349731"
+  }
+}

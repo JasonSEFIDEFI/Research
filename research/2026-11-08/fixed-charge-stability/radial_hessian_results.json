@@ -1,0 +1,438 @@
+{
+  "status": "Exploratory / Not Promoted",
+  "restriction": "static real scalar amplitudes; fixed charge; electrostatic response included; not the full dynamical spectrum",
+  "results": [
+    {
+      "q": 0.0,
+      "omega": 1.40122308451528,
+      "radius": 80.0,
+      "h": 0.2,
+      "ell": 0,
+      "capacitance": 892.2029261217773,
+      "discrete_charge_number": 1250.1753361539152,
+      "sampled_high_ell_bound": 7.502385097652215,
+      "lowest_eigenvalues": [
+        0.038035656977775334,
+        0.04299997901796443,
+        0.0519131983412445,
+        0.06466683038823234
+      ],
+      "eigenpair_residuals": [
+        7.711723237803782e-14,
+        7.816162813157469e-14,
+        7.424427654450539e-14,
+        7.204594737213569e-14
+      ],
+      "capacitance_variation_checks": [
+        {
+          "epsilon": 0.001,
+          "first_relative": 3.22263296289424e-14,
+          "second_relative": 3.928022635965475e-11
+        },
+        {
+          "epsilon": 0.0003,
+          "first_relative": 8.086756873180304e-15,
+          "second_relative": 3.993373884880998e-10
+        },
+        {
+          "epsilon": 0.0001,
+          "first_relative": 2.091693979286786e-13,
+          "second_relative": 1.6525300903930221e-09
+        }
+      ],
+      "electrostatic_energy_second_variation_checks": [
+        {
+          "epsilon": 0.001,
+          "relative_error": 1.815156798782875e-06
+        },
+        {
+          "epsilon": 0.0003,
+          "relative_error": 1.6321845587784836e-07
+        },
+        {
+          "epsilon": 0.0001,
+          "relative_error": 1.8497065255259064e-08
+        }
+      ],
+      "sign": "positive in this discretized restricted subspace"
+    },
+    {
+      "q": 0.0,
+      "omega": 1.40122308451528,
+      "radius": 80.0,
+      "h": 0.1,
+      "ell": 0,
+      "capacitance": 892.2029261348441,
+      "discrete_charge_number": 1250.175336172225,
+      "sampled_high_ell_bound": 7.507198901475674,
+      "lowest_eigenvalues": [
+        0.03803733731995592,
+        0.04300393812630082,
+        0.05191908942845744,
+        0.06467535181826456
+      ],
+      "eigenpair_residuals": [
+        5.203940303803508e-13,
+        4.587137189791842e-13,
+        3.253326022616092e-13,
+        4.2786455176601244e-13
+      ],
+      "capacitance_variation_checks": [
+        {
+          "epsilon": 0.001,
+          "first_relative": 4.8037749783597913e-14,
+          "second_relative": 1.299009181029674e-10
+        },
+        {
+          "epsilon": 0.0003,
+          "first_relative": 2.2329104798908578e-14,
+          "second_relative": 3.9933750127545426e-10
+        },
+        {
+          "epsilon": 0.0001,
+          "first_relative": 7.821221572806896e-14,
+          "second_relative": 1.857063337070715e-08
+        }
+      ],
+      "electrostatic_energy_second_variation_checks": [
+        {
+          "epsilon": 0.001,
+          "relative_error": 1.8150973611341612e-06
+        },
+        {
+          "epsilon": 0.0003,
+          "relative_error": 1.6300086459806723e-07
+        },
+        {
+          "epsilon": 0.0001,
+          "relative_error": 1.2646605503085697e-08
+        }
+      ],
+      "sign": "positive in this discretized restricted subspace"
+    },
+    {
+      "q": 0.0,
+      "omega": 1.40122308451528,
+      "radius": 80.0,
+      "h": 0.05,
+      "ell": 0,
+      "capacitance": 892.2029265755305,
+      "discrete_charge_number": 1250.1753367897247,
+      "sampled_high_ell_bound": 7.5078184572962146,
+      "lowest_eigenvalues": [
+        0.03803775590974809,
+        0.04300492542093301,
+        0.051920559581000336,
+        0.06467747950160527
+      ],
+      "eigenpair_residuals": [
+        6.946674645528444e-12,
+        5.34727202217198e-12,
+        3.4093730607903463e-12,
+        3.047312599328579e-12
+      ],
+      "capacitance_variation_checks": [
+        {
+          "epsilon": 0.001,
+          "first_relative": 1.4242347921036356e-14,
+          "second_relative": 1.711356365278893e-11
+        },
+        {
+          "epsilon": 0.0003,
+          "first_relative": 1.6052815877100298e-14,
+          "second_relative": 1.480451664369284e-09
+        },
+        {
+          "epsilon": 0.0001,
+          "first_relative": 1.5932118013362703e-14,
+          "second_relative": 3.986837519328547e-09
+        }
+      ],
+      "electrostatic_energy_second_variation_checks": [
+        {
+          "epsilon": 0.001,
+          "relative_error": 1.8151572402704973e-06
+        },
+        {
+          "epsilon": 0.0003,
+          "relative_error": 1.6406816093097773e-07
+        },
+        {
+          "epsilon": 0.0001,
+          "relative_error": 2.0213365563598787e-08
+        }
+      ],
+      "sign": "positive in this discretized restricted subspace"
+    },
+    {
+      "q": 0.0,
+      "omega": 1.40122308451528,
+      "radius": 120.0,
+      "h": 0.1,
+      "ell": 0,
+      "capacitance": 892.202926135116,
+      "discrete_charge_number": 1250.1753361726057,
+      "sampled_high_ell_bound": 7.507198901475674,
+      "lowest_eigenvalues": [
+        0.037222321867943525,
+        0.039282064336434566,
+        0.04291046326504509,
+        0.04815809735350507
+      ],
+      "eigenpair_residuals": [
+        4.566226197549549e-13,
+        5.622978761857302e-13,
+        4.529615171523743e-13,
+        3.6310372165438776e-13
+      ],
+      "capacitance_variation_checks": [
+        {
+          "epsilon": 0.001,
+          "first_relative": 7.266011399428628e-14,
+          "second_relative": 9.567390358474398e-11
+        },
+        {
+          "epsilon": 0.0003,
+          "first_relative": 7.833291359184685e-14,
+          "second_relative": 1.4804517771566383e-09
+        },
+        {
+          "epsilon": 0.0001,
+          "first_relative": 2.2353244371664154e-13,
+          "second_relative": 9.626205354624824e-09
+        }
+      ],
+      "electrostatic_energy_second_variation_checks": [
+        {
+          "epsilon": 0.001,
+          "relative_error": 1.8151562643700064e-06
+        },
+        {
+          "epsilon": 0.0003,
+          "relative_error": 1.636512190766697e-07
+        },
+        {
+          "epsilon": 0.0001,
+          "relative_error": 2.0446369935995503e-08
+        }
+      ],
+      "sign": "positive in this discretized restricted subspace"
+    },
+    {
+      "q": 0.01,
+      "omega": 1.4026630631464716,
+      "radius": 80.0,
+      "h": 0.2,
+      "ell": 0,
+      "capacitance": 891.2868899466558,
+      "discrete_charge_number": 1250.1751991948684,
+      "sampled_high_ell_bound": 7.4192226257475,
+      "lowest_eigenvalues": [
+        0.03471327285001838,
+        0.039683056753344575,
+        0.04859163349224144,
+        0.06135992024040751
+      ],
+      "eigenpair_residuals": [
+        6.923667689675554e-14,
+        7.59659751060897e-14,
+        7.406869511794624e-14,
+        6.950751528010297e-14
+      ],
+      "capacitance_variation_checks": [
+        {
+          "epsilon": 0.001,
+          "first_relative": 2.2607613883010986e-09,
+          "second_relative": 1.2762162661365734e-09
+        },
+        {
+          "epsilon": 0.0003,
+          "first_relative": 2.0348867367095987e-10,
+          "second_relative": 2.8583774246742387e-09
+        },
+        {
+          "epsilon": 0.0001,
+          "first_relative": 2.2811251093597217e-11,
+          "second_relative": 1.4834897559125542e-08
+        }
+      ],
+      "electrostatic_energy_second_variation_checks": [
+        {
+          "epsilon": 0.001,
+          "relative_error": 1.805787344869577e-06
+        },
+        {
+          "epsilon": 0.0003,
+          "relative_error": 1.636035654889839e-07
+        },
+        {
+          "epsilon": 0.0001,
+          "relative_error": 2.4383359066977796e-08
+        }
+      ],
+      "sign": "positive in this discretized restricted subspace"
+    },
+    {
+      "q": 0.01,
+      "omega": 1.4026630631464716,
+      "radius": 80.0,
+      "h": 0.1,
+      "ell": 0,
+      "capacitance": 891.2869632158431,
+      "discrete_charge_number": 1250.175301966851,
+      "sampled_high_ell_bound": 7.422985045270637,
+      "lowest_eigenvalues": [
+        0.034714811224710596,
+        0.0396871084451651,
+        0.04859758313124088,
+        0.06136841617369247
+      ],
+      "eigenpair_residuals": [
+        5.037997276798623e-13,
+        4.812235357910324e-13,
+        4.134233188664867e-13,
+        4.4974377287358367e-13
+      ],
+      "capacitance_variation_checks": [
+        {
+          "epsilon": 0.001,
+          "first_relative": 2.260624224954617e-09,
+          "second_relative": 1.2383007198371886e-09
+        },
+        {
+          "epsilon": 0.0003,
+          "first_relative": 2.032712221576322e-10,
+          "second_relative": 1.4780736862408803e-10
+        },
+        {
+          "epsilon": 0.0001,
+          "first_relative": 2.3400794770146174e-11,
+          "second_relative": 7.081578973612238e-09
+        }
+      ],
+      "electrostatic_energy_second_variation_checks": [
+        {
+          "epsilon": 0.001,
+          "relative_error": 1.805753813331333e-06
+        },
+        {
+          "epsilon": 0.0003,
+          "relative_error": 1.6246479542834701e-07
+        },
+        {
+          "epsilon": 0.0001,
+          "relative_error": 1.8466384137982185e-08
+        }
+      ],
+      "sign": "positive in this discretized restricted subspace"
+    },
+    {
+      "q": 0.01,
+      "omega": 1.4026630631464716,
+      "radius": 80.0,
+      "h": 0.05,
+      "ell": 0,
+      "capacitance": 891.2869819761047,
+      "discrete_charge_number": 1250.1753282811771,
+      "sampled_high_ell_bound": 7.423991280503951,
+      "lowest_eigenvalues": [
+        0.03471519444972601,
+        0.03968811880922554,
+        0.048599067938778134,
+        0.06137053756412035
+      ],
+      "eigenpair_residuals": [
+        7.302524852058071e-12,
+        5.22690269274995e-12,
+        3.2190882308494925e-12,
+        2.9949175261186997e-12
+      ],
+      "capacitance_variation_checks": [
+        {
+          "epsilon": 0.001,
+          "first_relative": 2.26055416105421e-09,
+          "second_relative": 1.3180221655358069e-09
+        },
+        {
+          "epsilon": 0.0003,
+          "first_relative": 2.0364503767693914e-10,
+          "second_relative": 3.543132045986454e-09
+        },
+        {
+          "epsilon": 0.0001,
+          "first_relative": 2.1454440070343276e-11,
+          "second_relative": 3.175606339878786e-08
+        }
+      ],
+      "electrostatic_energy_second_variation_checks": [
+        {
+          "epsilon": 0.001,
+          "relative_error": 1.8057944598667007e-06
+        },
+        {
+          "epsilon": 0.0003,
+          "relative_error": 1.6375219294979848e-07
+        },
+        {
+          "epsilon": 0.0001,
+          "relative_error": 8.45979491442258e-09
+        }
+      ],
+      "sign": "positive in this discretized restricted subspace"
+    },
+    {
+      "q": 0.01,
+      "omega": 1.4026630631464716,
+      "radius": 120.0,
+      "h": 0.1,
+      "ell": 0,
+      "capacitance": 891.2869632168486,
+      "discrete_charge_number": 1250.1753019682615,
+      "sampled_high_ell_bound": 7.422985045270653,
+      "lowest_eigenvalues": [
+        0.033700374206720035,
+        0.03582513561966151,
+        0.039439830815297436,
+        0.044680434318263004
+      ],
+      "eigenpair_residuals": [
+        4.006947398920642e-13,
+        5.578267276392459e-13,
+        4.678732881376462e-13,
+        3.634867286498821e-13
+      ],
+      "capacitance_variation_checks": [
+        {
+          "epsilon": 0.001,
+          "first_relative": 2.2605638175311264e-09,
+          "second_relative": 1.46522516832368e-09
+        },
+        {
+          "epsilon": 0.0003,
+          "first_relative": 2.0317038170920105e-10,
+          "second_relative": 2.038836988692329e-09
+        },
+        {
+          "epsilon": 0.0001,
+          "first_relative": 2.4308843033869975e-11,
+          "second_relative": 2.4100837044597876e-08
+        }
+      ],
+      "electrostatic_energy_second_variation_checks": [
+        {
+          "epsilon": 0.001,
+          "relative_error": 1.8058335128188549e-06
+        },
+        {
+          "epsilon": 0.0003,
+          "relative_error": 1.6311788230417365e-07
+        },
+        {
+          "epsilon": 0.0001,
+          "relative_error": 2.6286812694721467e-08
+        }
+      ],
+      "sign": "positive in this discretized restricted subspace"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "status": "Exploratory / Not Promoted",
+  "assistance": "AI-assisted; no independent review",
+  "source_repository": "JasonSEFIDEFI/Research",
+  "parent_commit": "805e162ba7ae938bbb5ea201904d344798e00e1b",
+  "preceding_package": "research/2026-11-08/fixed-charge-stability",
+  "candidate": {
+    "q": 0.0025,
+    "lambda": 12,
+    "N": 1250.1753361265248,
+    "profile": "profile_q00025.csv",
+    "profile_sha256_LF_UTF8": "66c73d6e841baf43b20d8c10beb3cdb383786a49ef258cfcf6d6239ad997bf92"
+  },
+  "physical_source": "https://physics.nist.gov/cuu/Constants/Table/allascii.txt",
+  "adjustment": 2022,
+  "conventional_reference": "https://arxiv.org/abs/1612.00737",
+  "runtime": {
+    "python": "3.14.7",
+    "platform": "Windows-11-10.0.26300-SP0",
+    "machine": "AMD64",
+    "precision": "float64"
+  }
+}

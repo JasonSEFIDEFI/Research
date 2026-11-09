@@ -1,3 +1,9 @@
+# Steps 6–7 closure audit and step 8 review readiness — 8 November 2026
+
+[Review dossier](research/2026-11-08/steps-6-7-closure/REVIEW_DOSSIER.md): the same bound q=.0025 candidate now has explicit charged Cartesian radial phase/amplitude dynamics with Coulomb Gauss elimination and symplectic charge/gauge reduction. Complete 892- and 1792-dimensional finite-grid spectra have no growing mode above 1e-6; maximum absolute real part is below 1.8e-14. The constrained energy remains positive in the larger 4792-dimensional test. Candidate-specific angular and observable convergence checks are included, plus an independent Coulomb/static Schur identity check.
+
+[Observational assessment](research/2026-11-08/steps-6-7-closure/OBSERVATIONAL_ASSESSMENT.md): a canonical electron-mass fit gives charge magnitude 10.321e for q=.0025. Fitting q separately can match charge by construction, but both spherical classical backgrounds have zero magnetic dipole, failing direct identification with the measured electron response. No quantum spin/current map is derived. **Full nonlinear continuum 3D stability and successful measured predictions are not established: steps 6 and 7 have not both passed.** Step 8 is ready as review of explicit evidence, failed requirements and unresolved proofs, not confirmation that matter has been derived. **Exploratory / Not Promoted**, AI-assisted; no independent review occurred.
+
 # Fixed-charge stability assessment and conditional observables — 8 November 2026
 
 [Step 6 assessment](research/2026-11-08/fixed-charge-stability/FIXED_CHARGE_STABILITY.md): fixed N=1250.175336 continuation accepts six profiles through q=.02; q=.03 is rejected. The branch crosses the free-scalar energy threshold near q=.00601012. Restricted radial/angular real-amplitude Hessians at q=0 and .01 show positive sampled sectors aside from translation shifts tending to zero under refinement. This is static numerical evidence, not full dynamical stability: **step 6 remains unestablished** at that level.
@@ -141,5 +147,6 @@ The folder includes the complete derivation, pinned source manifest, reproducibl
 The inspected SEFI formulations do not yet select a full physical state space, constitutive functions and admissible-state constraints, quantization and normalized observation law with calibrated predictions. These remain research tasks. The energy obstruction informs the worldline/effective-action work; it is not a verdict on every realization or a reason to stop defined field calculations. Mathematical outcomes, including changes of shape, failures and equivalences to existing models, guide the next step.
 
 The research policy is to push completed, checked results, including failures and limitations. Public commits are research records, not claims of peer review, journal acceptance, novelty, or experimental verification.
+
 
 

@@ -1,0 +1,100 @@
+{
+  "status": "Exploratory / Not Promoted",
+  "scope": "Finite-box complete radial charged phase/amplitude plus neutral real mode; neutral imaginary mode separately; not a nonlinear 3D proof",
+  "results": [
+    {
+      "radius": 60.0,
+      "h": 0.4,
+      "radial_nodes": 149,
+      "energy_symmetry_error": 1.1276979508107204e-16,
+      "reduced_symmetry_error": 2.225141526652115e-16,
+      "unreduced_gauge_mode_residual": 0.00016764588288727177,
+      "smallest_reduced_energy_eigenvalues": [
+        0.013118189334139753,
+        0.013424977906702832,
+        0.016391121957291126,
+        0.01706083720504182
+      ],
+      "eigenpair_residuals": [
+        1.8361659123199533e-14,
+        2.0923702625688684e-14,
+        1.6516674766652506e-14,
+        1.7309103485819706e-14
+      ],
+      "phase_space_dimension": 892,
+      "maximum_absolute_real_part": 3.8321125786500154e-15,
+      "maximum_frequency": 6.639202960273772,
+      "smallest_nonzero_frequency": 0.014127541974244684,
+      "positive_growth_count": 0,
+      "symplectic_square_error": 1.9984014443252818e-15,
+      "reduced_energy_minimum_direct": 0.01311818933414204,
+      "neutral_phase_lowest_squared_frequencies": [
+        0.0027625836805778704,
+        0.011246326450912763,
+        0.025764276940882326
+      ],
+      "generated_spectrum_file": "radial_spectrum_R60_h0.4.csv",
+      "spectrum_sha256_LF_UTF8": "a830d40bd7d86016404039e8239d7e61267c67648102c1a11413f2ae6b816266"
+    },
+    {
+      "radius": 60.0,
+      "h": 0.2,
+      "radial_nodes": 299,
+      "energy_symmetry_error": 1.5576389832953998e-16,
+      "reduced_symmetry_error": 1.5573501638776024e-16,
+      "unreduced_gauge_mode_residual": 0.00011116424767700684,
+      "smallest_reduced_energy_eigenvalues": [
+        0.013122006560591964,
+        0.013425464387812055,
+        0.016399783689214246,
+        0.01706316789451932
+      ],
+      "eigenpair_residuals": [
+        8.542143632721561e-14,
+        7.440008175819136e-14,
+        7.445212455177682e-14,
+        7.542741356384766e-14
+      ],
+      "phase_space_dimension": 1792,
+      "maximum_absolute_real_part": 1.7930101847696278e-14,
+      "maximum_frequency": 11.520863440542268,
+      "smallest_nonzero_frequency": 0.014129238370302059,
+      "positive_growth_count": 0,
+      "symplectic_square_error": 2.220446049250313e-15,
+      "reduced_energy_minimum_direct": 0.013122006560582869,
+      "neutral_phase_lowest_squared_frequencies": [
+        0.00276300341977805,
+        0.011248836510688604,
+        0.025773351971216968
+      ],
+      "generated_spectrum_file": "radial_spectrum_R60_h0.2.csv",
+      "spectrum_sha256_LF_UTF8": "e3fa35d22a6fd721b2cc835632765ace338f608a049cbacac0366f497dccf02b"
+    },
+    {
+      "radius": 80.0,
+      "h": 0.1,
+      "radial_nodes": 799,
+      "energy_symmetry_error": 6.079203725244113e-15,
+      "reduced_symmetry_error": 4.991697413554863e-15,
+      "unreduced_gauge_mode_residual": 1.2135423613473467e-05,
+      "smallest_reduced_energy_eigenvalues": [
+        0.012686642601912662,
+        0.012819664280865959,
+        0.014379126811371502,
+        0.014741226058551838
+      ],
+      "eigenpair_residuals": [
+        2.678492111217689e-13,
+        3.8889822519221046e-13,
+        3.153366075110838e-13,
+        3.7290918987629367e-13
+      ],
+      "phase_space_dimension": 4792,
+      "neutral_phase_lowest_squared_frequencies": [
+        0.0015473917256751384,
+        0.006243074314971454,
+        0.014195433367577417
+      ]
+    }
+  ]
+}

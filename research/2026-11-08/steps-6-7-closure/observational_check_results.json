@@ -1,0 +1,204 @@
+{
+  "status": "Exploratory / Not Promoted",
+  "nist_source": "https://physics.nist.gov/cuu/Constants/Table/allascii.txt",
+  "codata_adjustment": 2022,
+  "measured_inputs": {
+    "electron_rest_energy_MeV": 0.51099895069,
+    "alpha": 0.0072973525643,
+    "hbar_c_MeV_fm": 197.3269804,
+    "electron_magnetic_moment_J_per_T": -9.2847646917e-24,
+    "electron_g_factor": -2.00231930436092
+  },
+  "convergence": {
+    "energy_relative": 2.369437979155009e-11,
+    "radius_relative": 1.0317854348684818e-09,
+    "form_factor_max_absolute": 3.945836990482121e-10
+  },
+  "backgrounds": [
+    {
+      "background": {
+        "q": 0.0025,
+        "target_number": 1250.1753361265248,
+        "omega": 1.4013130340030209,
+        "radius": 120.0,
+        "tolerance": 1e-07,
+        "status": 0,
+        "message": "The algorithm converged to the desired accuracy.",
+        "nodes": 1190,
+        "max_rms_residual": 9.935812967427109e-08,
+        "boundary_residual": 5.5090283488865134e-39,
+        "central_f": 0.9411754334516766,
+        "central_s": 0.08992068407370071,
+        "central_a": 0.050437509059945616,
+        "central_frequency": 1.401186940230371,
+        "radial_nodes": 0,
+        "charge_number": 1250.1753361585747,
+        "electric_charge": 3.1254383403964368,
+        "gauss_flux": 3.1254383400369545,
+        "charge_relative_error": 2.5636332955306382e-11,
+        "gauss_relative_error": 1.1501817748938569e-10,
+        "energy": 1767.7523605577403,
+        "energy_per_number": 1.4140035476859825,
+        "binding_margin": 0.26255518205948647,
+        "gradient_energy": 23.85306434695924,
+        "time_energy": 875.8884830698842,
+        "potential_energy": 867.95579953672,
+        "electric_energy": 0.055013604177103846,
+        "gauss_energy_identity_relative": 1.0289842876928477e-15,
+        "accepted": true
+      },
+      "observables": {
+        "charge_number": 1250.1753361585786,
+        "rms_radius": 7.211813302218087,
+        "wavenumbers": [
+          0.0,
+          0.01,
+          0.025,
+          0.05,
+          0.1,
+          0.2,
+          0.5,
+          1.0
+        ],
+        "form_factors": [
+          1.0,
+          0.9991336563858161,
+          0.9946015051330707,
+          0.9786338775052975,
+          0.9180094164538571,
+          0.7185409138791612,
+          0.16268203504760967,
+          -0.0051545463034637804
+        ]
+      }
+    },
+    {
+      "background": {
+        "q": 0.0025,
+        "target_number": 1250.1753361265248,
+        "omega": 1.4013130340515163,
+        "radius": 160.0,
+        "tolerance": 2e-08,
+        "status": 0,
+        "message": "The algorithm converged to the desired accuracy.",
+        "nodes": 1647,
+        "max_rms_residual": 1.9897103360293106e-08,
+        "boundary_residual": 7.749583381024732e-41,
+        "central_f": 0.9411754335473079,
+        "central_s": 0.08992068400744814,
+        "central_a": 0.050437509043916404,
+        "central_frequency": 1.4011869402789066,
+        "radial_nodes": 0,
+        "charge_number": 1250.1753361289425,
+        "electric_charge": 3.1254383403223565,
+        "gauss_flux": 3.1254383404433375,
+        "charge_relative_error": 1.933860172348821e-12,
+        "gauss_relative_error": 3.870849136026321e-11,
+        "energy": 1767.7523605158544,
+        "energy_per_number": 1.4140035476859938,
+        "binding_margin": 0.26255518203902284,
+        "gradient_energy": 23.853064320185148,
+        "time_energy": 875.8884830794765,
+        "potential_energy": 867.9557995120581,
+        "electric_energy": 0.05501360413466633,
+        "gauss_energy_identity_relative": 1.286230359646536e-16,
+        "accepted": true
+      },
+      "observables": {
+        "charge_number": 1250.1753361289552,
+        "rms_radius": 7.2118133096591315,
+        "wavenumbers": [
+          0.0,
+          0.01,
+          0.025,
+          0.05,
+          0.1,
+          0.2,
+          0.5,
+          1.0
+        ],
+        "form_factors": [
+          1.0,
+          0.9991336563840298,
+          0.9946015051219975,
+          0.9786338774622617,
+          0.9180094163002526,
+          0.7185409134845775,
+          0.1626820350308753,
+          -0.005154546303241346
+        ]
+      }
+    }
+  ],
+  "mass_only_calibration": {
+    "scale_MeV": 0.0002890670447419929,
+    "radius_m": 4.92302865196461e-09,
+    "absolute_charge_over_elementary_charge": 10.321037090659823,
+    "energy_radius": 12748.700001749587,
+    "magnetic_dipole": 0.0
+  },
+  "optional_mass_and_charge_fit": {
+    "q_fitted": 0.00024222372015959975,
+    "background": {
+      "q": 0.00024222372015959975,
+      "target_number": 1250.1753361265248,
+      "omega": 1.4012239289498485,
+      "radius": 160.0,
+      "tolerance": 2e-08,
+      "status": 0,
+      "message": "The algorithm converged to the desired accuracy.",
+      "nodes": 1644,
+      "max_rms_residual": 1.9935365812219043e-08,
+      "boundary_residual": 1.0587911840678754e-22,
+      "central_f": 0.9413800115497287,
+      "central_s": 0.08967171915691638,
+      "central_a": 0.004888867215499647,
+      "central_frequency": 1.401222744750244,
+      "radial_nodes": 0,
+      "charge_number": 1250.1753361289334,
+      "electric_charge": 0.30282212076892834,
+      "gauss_flux": 0.3028221207806815,
+      "charge_relative_error": 1.9265852351820802e-12,
+      "gauss_relative_error": 3.8812072168788705e-11,
+      "energy": 1767.6978472375372,
+      "energy_per_number": 1.4139599431797065,
+      "binding_margin": 0.3170684603433074,
+      "gradient_energy": 23.883893048628373,
+      "time_energy": 875.8872814339582,
+      "potential_energy": 867.9261560055185,
+      "electric_energy": 0.0005167494324273239,
+      "gauss_energy_identity_relative": 6.431350125774022e-17,
+      "accepted": true
+    },
+    "observables": {
+      "charge_number": 1250.1753361289461,
+      "rms_radius": 7.205905827365878,
+      "wavenumbers": [
+        0.0,
+        0.01,
+        0.025,
+        0.05,
+        0.1,
+        0.2,
+        0.5,
+        1.0
+      ],
+      "form_factors": [
+        1.0,
+        0.999135073719289,
+        0.9946102915591408,
+        0.9786680199145348,
+        0.9181313151111936,
+        0.7188597762716814,
+        0.162866601762727,
+        -0.00517943691589459
+      ]
+    },
+    "scale_MeV": 0.0002890759591570254,
+    "radius_m": 4.918844313817493e-09,
+    "absolute_charge_over_elementary_charge": 1.0000000000019267,
+    "magnetic_dipole": 0.0,
+    "stability": "Not tested on this separately fitted background"
+  },
+  "assessment": "Direct identification of either static spherical classical configuration with the electron fails its nonzero magnetic response. Mass and charge fits do not derive them; no quantum-current map is supplied."
+}
